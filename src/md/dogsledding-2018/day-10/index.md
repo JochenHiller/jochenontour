@@ -1,7 +1,7 @@
 ---
 path: "/dogsledding-2018/day-10"
 date: "2018-04-10"
-title: "Hundeschlitten Expedition im April 2018 mit Active Tromsø"
+title: "Rückreise nach Hause, Klimawechsel"
 tags: ["Hundeschlitten", "Lappland",]
 cover: "./cover.jpg"
 country: "Lappland"
