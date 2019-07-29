@@ -70,5 +70,9 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/JochenHiller/jochenontour"
-  }
+  },
+  "build": "gatsby build",
+  "test": "echo \"no test specified\" && exit 0",
+  "preDeploy": "gatsby build --prefix-paths",
+  "deploy": "npm run preDeploy && gh-pages -d public"
 }
