@@ -17,8 +17,9 @@ const Posts = ({ posts }) => {
   }
   const sliced = SLICES[size]
 
+  {/* FIXED use posts.length, not only one row */}
   return posts
-    .slice(0, sliced)
+    .slice(0, posts.lenth)
     .map(post => (
       <Card
         key={post.frontmatter.title}

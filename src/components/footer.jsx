@@ -62,36 +62,40 @@ const Footer = () => (
           icon={<Rss color="accent-3" />}
           href="/rss.xml"
         />
+        {/* TODO fixme with better layout */}
+        <Box direction="row" gap="xlarge">
+          <Text>       </Text>
+          <Text>
+            {`Both the texts and the photos are released under the `}
+            <Anchor
+              rel="noopener noreferrer"
+              target="_blank"
+              color="accent-3"
+              label="Creative Commons License"
+              href="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+            />
+            {`. `}
+            <br />
+            {`Code of this blog is released under the `}
+            <Anchor
+              rel="noopener noreferrer"
+              target="_blank"
+              color="accent-3"
+              label="GNU Affero General Public License 3.0"
+              href="https://www.gnu.org/licenses/agpl-3.0.en.html"
+            />
+            {`, and is available on `}
+            {/* FIXED href to correctly quoted to eval config.github */}
+            <Anchor
+              rel="noopener noreferrer"
+              target="_blank"
+              color="accent-3"
+              label="Github"
+              href={`https://github.com/${config.github}`}
+            />
+          </Text>
+        </Box>
       </Box>
-      <Text>
-        {`Both the texts and the photos are released under the `}
-        <Anchor
-          rel="noopener noreferrer"
-          target="_blank"
-          color="accent-3"
-          label="Creative Commons License"
-          href="https://creativecommons.org/licenses/by-nc-sa/4.0/"
-        />
-        {`. `}
-        <br />
-        {`Code of this blog is released under the `}
-        <Anchor
-          rel="noopener noreferrer"
-          target="_blank"
-          color="accent-3"
-          label="GNU Affero General Public License 3.0"
-          href="https://www.gnu.org/licenses/agpl-3.0.en.html"
-        />
-        {`, and is available on `}
-        {/* FIXED href to correctly quoted to eval config.github */}
-        <Anchor
-          rel="noopener noreferrer"
-          target="_blank"
-          color="accent-3"
-          label="Github"
-          href={`https://github.com/${config.github}`}
-        />
-      </Text>
     </Box>
   </Box>
 )
