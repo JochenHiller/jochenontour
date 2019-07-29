@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "name": "JochenOnTour",
+  "description": null,
+  "icons": {
+    "60": "/icons-ad096cab798e8c778849e603268724d8/firefox_app_60x60.png",
+    "128": "/icons-ad096cab798e8c778849e603268724d8/firefox_app_128x128.png",
+    "512": "/icons-ad096cab798e8c778849e603268724d8/firefox_app_512x512.png"
+  },
+  "developer": {
+    "name": null,
+    "url": null
+  }
+}
