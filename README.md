@@ -1,3 +1,5 @@
+https://travis-ci.org/JochenHiller/jochenontour.svg?branch=master
+
 # jochenontour.blog
 
 This is the repository where the code, articles and photos of [https://jochenontour.blog](https://jochenontour.blog) lives!
