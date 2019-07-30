@@ -34,7 +34,9 @@ Deswegen habe ich einfach Papiernotizen gemacht, und die Blog Posts direkt danac
 * [Mo., 09.04.2018: Tag 6: "Ankomst" in Kiruna](/dogsledding-2018/day-09)
 * [Di., 10.04.2018: Rückreise nach Hause, Klimawechsel](/dogsledding-2018/day-10)
 
-Anhand der Fotos konnte ich die ungefähre Route die wir gefahren sind darstellen:
+## Die Route
+
+Anhand der Fotos konnte ich die ungefähre Route die wir gefahren sind zusammenstellen:
 
 <rehype-image src="2018-04-11_Route.png"></rehype-image>
 
@@ -49,11 +51,12 @@ Vielleicht wollt ihr mal mit einer Tagestour rein schnuppern, Hundeschlitten Fah
 Das Hundeschlitten Fahren war für mich mit normaler Fitness gut machbar. Das Winter Camping fand ich deutlich anstrengender. Dafür ist man in der unberührten Natur unterwegs, eine unmittelbarere Erfahrung, was diese Expedition zu etwas sehr besonderem macht.
 
 Wenn ihr:
-* Spass und Freude mit Hunden habt, keine Scheu vor Hundedreck
-* Kein Problem mit Kälte habt
-* Camping liebt
-* Spass an Outdoor Aktivitäten habt
-* Natur und Landschaften liebt
+* Spass und Freude mit Hunden habt, keine Scheu vor Hundedreck,
+* Kein Problem mit Kälte habt,
+* Camping liebt,
+* Spass an Outdoor Aktivitäten habt,
+* und Natur und Landschaften liebt
+
 dann ist so eine Expedition empfehlenswert.
 
 <tip title="Selber auf Tour gehen">
@@ -66,18 +69,12 @@ Hier noch ein paar Referenzen falls es euch interessiert:
 
 ### Veranstalter
 
-* Active Tromsø (Tore, Sandra und Kollegen): https://www.activetromso.no/
-  * Kann ich nur empfehlen, tolles Erlebnis 
-* Swen Engholm: http://www.engholm.no/
-  * Seine Husky Lodge hatte ich in 2017 besucht, tolle Lodge, schöne Touren im Winter
-* Björn Klauer: http://huskyfarm.de/de
-  * bietet ähnliche Touren an, auch mit Camping
-* Tamara Schlemmer: http://www.cafe-husky-camp.com
-  * ehemalige Profikletterin vom DAV, die in Schweden Hundeschlittentouren anbietet
-* Huskytrack: https://www.huskytrack.de/
-  * Der Veranstalter hat mir die Hüttentour 2015 in Äkaskero / Finnland vermittelt
-* Diamir Reisen: https://www.diamir.de/reiseart/huskytouren
-  * Deutscher Reiseveranstalter für Expeditionsreisen
+* Active Tromsø (Tore, Sandra und Kollegen): https://www.activetromso.no<br />Kann ich nur empfehlen, tolles Erlebnis 
+* Swen Engholm: http://www.engholm.no<br />Seine Husky Lodge hatte ich in 2017 besucht, tolle Lodge, schöne Touren im Winter
+* Björn Klauer: http://huskyfarm.de/de<br />bietet ähnliche Touren an, auch mit Camping
+* Tamara Schlemmer: http://www.cafe-husky-camp.com<br />ehemalige Profikletterin vom DAV, die in Schweden Hundeschlittentouren anbietet
+* Huskytrack: https://www.huskytrack.de<br />Der Veranstalter hat mir die Hüttentour 2015 in Äkaskero / Finnland vermittelt
+* Diamir Reisen: https://www.diamir.de/reiseart/huskytouren<br />Deutscher Reiseveranstalter für Expeditionsreisen
 
 ### Sami Touren
 
@@ -95,10 +92,9 @@ Hier noch ein paar Referenzen falls es euch interessiert:
 
 * Baffin Babes: [In 80 Tagen auf Skiern durch die Arktis](https://www.amazon.de/Baffin-Babes-Tagen-Skiern-Arktis/dp/3492404626/ref=sr_1_1?ie=UTF8&qid=1523815102&sr=8-1&keywords=baffin+babes)
 * Björn Klauer: [Nördlich des Treibeises - Spitzbergen](https://www.amazon.de/N%C3%B6rdlich-Treibeises-Spitzbergen-verschollenen-Schr%C3%B6der-Stranz/dp/3863866452/ref=sr_1_5?s=books&ie=UTF8&qid=1523815544&sr=1-5&keywords=bj%C3%B6rn+klauer)
-* Christiane Ritter: [Eine Frau erlebt die Polarnacht](https://www.amazon.de/Eine-Frau-erlebt-die-Polarnacht/dp/3548377319/ref=sr_1_1?s=books&ie=UTF8&qid=1523815500&sr=1-1&keywords=christiane+ritter)
-  * Ein interessanter Bericht aus den 1930-er Jahre von einer Überwinterung in Spitzbergen
+* Christiane Ritter: [Eine Frau erlebt die Polarnacht](https://www.amazon.de/Eine-Frau-erlebt-die-Polarnacht/dp/3548377319/ref=sr_1_1?s=books&ie=UTF8&qid=1523815500&sr=1-1&keywords=christiane+ritter)<br />Ein interessanter Bericht aus den 1930-er Jahre von einer Überwinterung in Spitzbergen
 * Stephan Orth: [Opas Eisberg](http://www.stephan-orth.de/opas-eisberg.html)
-* Thomas Gut: [Mushing - Hundeschlittenfahren Der * Praxis-Ratgeber für Einsteiger und Mitfahrer](https://www.amazon.de/Reise-Know-How-Mushing-Hundeschlittenfahren-Praxis-Ratgeber/dp/3831727325/ref=sr_1_1?ie=UTF8&qid=1523814393&sr=8-1&keywords=Musher+buch)
+* Thomas Gut: [Mushing - Hundeschlittenfahren Der Praxis-Ratgeber für Einsteiger und Mitfahrer](https://www.amazon.de/Reise-Know-How-Mushing-Hundeschlittenfahren-Praxis-Ratgeber/dp/3831727325/ref=sr_1_1?ie=UTF8&qid=1523814393&sr=8-1&keywords=Musher+buch)
 * Christian Hannig: [Polarlicht](https://www.amazon.de/Polarlicht-Christian-Hannig/dp/3894050861/ref=sr_1_1?s=books&ie=UTF8&qid=1523815391&sr=1-1&keywords=hannig+polarlicht) 
 * Sara Wheeler: [Leben in der Arktis - Meine Reisen jenseits des nördlichen Polarkreises](https://www.amazon.de/Leben-Arktis-jenseits-n%C3%B6rdlichen-Polarkreises/dp/3492404510/ref=sr_1_2?ie=UTF8&qid=1523815443&sr=8-2&keywords=sara+wheeler)
 * BBC Earth: [Eisige Welten](https://www.amazon.de/Frozen-Planet-Eisige-Alastair-Fothergill/dp/3894059311/ref=sr_1_1?s=books&ie=UTF8&qid=1523815632&sr=1-1&keywords=frozen+planet)
@@ -106,5 +102,4 @@ Hier noch ein paar Referenzen falls es euch interessiert:
 
 ### Sonstiges
 
-* Baffin Babes: http://www.baffinbabes.com/
-  * https://www.youtube.com/watch?v=_DCNmpdfLKI
+* Baffin Babes: http://www.baffinbabes.com/<br >Video: https://www.youtube.com/watch?v=_DCNmpdfLKI (sehenswert !)

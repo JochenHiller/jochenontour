@@ -122,7 +122,7 @@ Sandra und Tore habe die Teams zusammengestellt: welche Hunde zu welchem Musher.
 
 Die Lead-Dogs sind meistens Hündinnen, während die anderen eher Rüden sind. Die Wheel Dogs sind dabei die kräftigsten, da diese den Schlitten in der Spur halten. Sandra sagte: "Vorne das Brain, hinten die Muskeln". Keine Ahnung ob das so stimmt...
 
-<!--
+<!-- TODO
 <rehype-image src="IMG_1135-ANIMATION.gif"></rehype-image>
 -->
 
