@@ -22,11 +22,11 @@ Es geht weiter durch Schwedens Wälder und über Seen. Wieder eine komplett ande
 Zuerst machen wir wieder unsere Morgen Routine: Frühstück, mal wieder Porridge, Tee zubereiten für den Tag, zusammenpacken, Zelt abbauen, Hunde anschirren, Stake-Outs abbauen.
 Es geht immer schneller, ist jemand vor den anderen fertig helfen wir uns gegenseitig aus.
 
-#### Video
+<center>
 
-https://youtu.be/LXfTRuBvR7M
-
-Morgendliche Stimmung und Wind beim Abbau
+`youtube: https://youtu.be/LXfTRuBvR7M`
+### Morgendliche Stimmung und Wind beim Abbau
+</center>
 
 
 Dann geht es in den Weiten von Schweden weiter: die Landschaft ändert sich wie bisher von jedem Tag zum andern. Jetzt hat es in Schweden Bäume, dann kleine Wälder mit Up- und Down-Hills. Beim Schlittenfahren müssen wir besser aufpassen, mitarbeiten, viel bremsen. Dafür traue ich mich weniger während der Fahrt Bilder zu machen, um das SmartPhone nicht zu verlieren (das ist mir ein paar mal fast passiert, ich weiss nicht ob ich das wieder gefunden hätte).
@@ -40,22 +40,22 @@ Dann geht es in den Weiten von Schweden weiter: die Landschaft ändert sich wie 
 ##### Tolle Stimmung
 
 
-#### Video
+<center>
 
-https://youtu.be/DElXlOYAc4I
-
-Rundumblick auf dem Schlitten
+`youtube: https://youtu.be/DElXlOYAc4I`
+### Rundumblick auf dem Schlitten
+</center>
 
 
 <rehype-image src="IMG_1073.JPG"></rehype-image>
 
 Wir kreuzen nach einem kleinen Anstieg eine Hütte. Hier gibt es kurzzeitig mal Chaos mit den ganzen Schlitten und Hunden, alle stehen kreuz und quer.
 
-#### Video
+<center>
 
-https://youtu.be/tQuqkb2jJwM
-
-Kurzer Halt an einer Hütte
+`youtube: https://youtu.be/tQuqkb2jJwM`
+### Kurzer Halt an einer Hütte
+</center>
 
 Die Mittagspause haben wir auf dem Trail verbracht, rechts davon "geparkt", um niemanden zu blockieren. Das war aber kein Problem, wir haben auf der gesamten Tour keine anderen Hundeschlitten-Gruppen getroffen ! Ich habe meinen mitgebrachten Südtiroler Speck angeschnitten, mein Power-Snack für Mittags. Von Kamilla habe ich einen selber gemachten Energieriegel bekommen, der sehr lecker war (sie sagte er besteht fast nur aus Zucker).
 
@@ -80,9 +80,10 @@ Die Mittagspause haben wir auf dem Trail verbracht, rechts davon "geparkt", um n
 
 Unten ein Video wie Tore mit seinem Schlitten den Weg durch den Tiefschnee pflügt: ich war jedesmal von den Hunden beeindruckt. Selbst meiner im dritten Schlitten müssen sich noch durch den Tiefschnee kämpfen.
 
-#### Video
+<center>
 
-https://youtu.be/J_yZiqgVSfY
+`youtube: https://youtu.be/J_yZiqgVSfY`
+</center>
 
 
 Es kommen auch plötzlich Wegweiser, einer zeigt sogar Richtung Kiruna (unser Ziel der Tour).

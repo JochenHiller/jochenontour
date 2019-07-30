@@ -9,8 +9,6 @@
 * Check if RSS does work in PROD version
 * One sample with a photo album, change component to use more space
 * Images with captions
-* Add Google Analytics
-* Add Impressum
 * Archive, Destinations: add link to "more", or pagination
 * Add plugin for emoji, check TODOs
 * Check links to old blog, replace by new one when ready
@@ -29,5 +27,8 @@
 
 ## Done
 
+* ~~Added YouTube Video support~~
+* ~~Addedd Impressum~~
+* ~~Added Google Analytics~~
 * ~~Deploy to GitHub pages~~
 * ~~Initial version~~

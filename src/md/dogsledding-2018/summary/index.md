@@ -1,5 +1,5 @@
 ---
-path: "/dogsledding-2018/day-11"
+path: "/dogsledding-2018/summary"
 date: "2018-04-11"
 title: "Hundeschlitten Expedition im April 2018 mit Active Tromsø"
 tags: ["Hundeschlitten", "Lappland",]

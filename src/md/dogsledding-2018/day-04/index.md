@@ -29,28 +29,28 @@ Um 06:00 geht es in der Kajakhütte von Sandra und Tore los: nach Alarm von dive
 
 Tore holt uns gegen 08:00 mit dem Bus ab, er ist gesundheitlich angeschlagen und ziemlich erkältet. Zusammen fahren wir zum Kennel, wo [Sandra und Marina](https://www.activetromso.no/about-active-tromso/) bereits angefangen haben, die Hunde in den Transporter zu laden. Total witzig: Sandra lässt einen Hund von der Leine, der rennt wie wild zum Transporter und lässt sich dann in eine Box setzen. Alle anderen Hunde sind beleidigt und bellen/heulen bis sie auch dran sind. Wir helfen dann die Hunde zu holen und zu verladen. Bis alle 50 Hunde drin sind, dauert das schon seine 30 min. Dann wird das restliche Equipment in den Transporter verladen. Tore fährt mit uns und dem Bus schon voraus, während Sandra noch Maja abholt und mit dem Transporter uns dann nach fährt.
 
-#### Video
+<center>
 
-https://youtu.be/uUM291j8jgM
-
-Die Hunde gehen ab
-
+`youtube: https://youtu.be/uUM291j8jgM`
+### Die Hunde gehen ab
+</center>
 
 <rehype-image src="IMG_0776.JPG"><center>Trond Åge holt einen Hund</center></rehype-image>
 
+<center>
 
-#### Video
+`youtube: https://youtu.be/m7QpzVfz4Bk`
 
-https://youtu.be/m7QpzVfz4Bk
+### Oder sie kommen freiwillig
+</center>
 
-Oder sie kommen freiwillig
 
+<center>
 
-#### Video
+`youtube: https://youtu.be/RLleG21LDHI`
 
-https://youtu.be/RLleG21LDHI
-
-Und noch 2 durch den Tiefschnee
+### Und noch 2 durch den Tiefschnee
+</center>
 
 Nach einem kurzen Stop an einer Tankstelle (letzte Gelegenheit für eine normale Toilette, Cola, Pölser, Süssigkeiten) sind wir 13:00 da, Sandra 10 min später. Es geht los an der [E8, zwischen dem Lyngenfjord und Kilpisjärvi](https://www.google.com/maps/place/69%C2%B006'54.4%22N+20%C2%B044'49.1%22E/@69.1683949,20.4091482,10z/data=!4m5!3m4!1s0x0:0x0!8m2!3d69.1150972!4d20.7469778), kurz vor der finnischen Grenze.
 
@@ -66,12 +66,11 @@ Sandra/Tore haben im Vorfeld die Hunde pro Team zusammengestellt. Die werden jet
 
 <rehype-image src="IMG_0796.JPG"><center>Hunde sind vor die Schlitten gespannt</center></rehype-image>
 
-#### Video
+<center>
 
-https://youtu.be/eX7UAOT4IY4
-
-Sandra hilft beim Packen kurz bevor es losgeht
-
+`youtube: https://youtu.be/eX7UAOT4IY4`
+### Sandra hilft beim Packen kurz bevor es losgeht
+</center>
 
 Tore fährt los, ich löse den Anker, und die Hunde ziehen mit Wahnsinnskraft los. Sobald sie laufen werden sie auch ruhiger, dann sind sie mit Laufen und Hecheln beschäftigt. Die anderen folgen, es dauert etwas bis sich alles sortiert hat, und wir dann hintereinander ganz ruhig durch eine wunderschöne Landschaft fahren.
 

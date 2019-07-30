@@ -62,9 +62,14 @@ const Footer = () => (
           icon={<Rss color="accent-3" />}
           href="/rss.xml"
         />
+        <Anchor
+          rel="noopener noreferrer"
+          color="accent-3"
+          label="Impressum"
+          href="/impressum"
+        />
         {/* TODO fixme with better layout */}
         <Box direction="row" gap="xlarge">
-          <Text>       </Text>
           <Text>
             {`Both the texts and the photos are released under the `}
             <Anchor

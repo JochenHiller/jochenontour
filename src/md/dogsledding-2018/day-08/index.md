@@ -69,18 +69,19 @@ Auf einem See gibt es nach 34 km eine längere Mittagspause. Die Hunde geniessen
 <rehype-image src="IMG_1249.JPG"></rehype-image>
 </photo-composition>
 
-#### Video
+<center>
 
-https://youtu.be/j2AiBwFdqZk
+`youtube: https://youtu.be/j2AiBwFdqZk`
+</center>
 
 
 Nach der Pause geht es dann zum Glück wieder in Wälder hinein. Nach einer längeren Uphill Strecke (nicht besonders anstrengend) kam dann der Highlight des Tages: eine fast 30 min lange Downhill Strecke. Hier musste man wirklich aufpassen, dauernd bremsen, um den Hunden nicht in die Beine zu fahren. Der Schlitten ist mir mehrmals fast umgefallen, hat aber einen Riesenspass gemacht. Ich habe mich nicht getraut zu filmen, vielleicht bekomme ich von Trond Åge noch einen Film mit Live Action.
 
-#### Video
+<center>
 
-https://youtu.be/A9Huso0Ig_8
-
-##### Letzter Halt vor der Downhill Sektion
+`youtube: https://youtu.be/A9Huso0Ig_8`
+### Letzter Halt vor der Downhill Sektion
+<center>
 
 Danach ging es wieder über Seen weiter. Am Ende hat Tore noch einen Tiefschnee Einlage mit seinem Schlitten gemacht, um alle Schlitten der Reihe nach am Seerand zu parken. Wahnsinn was die Hunde dabei leisten.
 

@@ -35,12 +35,11 @@ Die erste Stunde verbringen wir mit Schnee schmelzen für unser Frühstück (Por
 
 Da wir am Abend mitten im Tiefschnee unser Camping Lager aufgeschlagen haben, ging es direkt im Tiefschnee los. Totaler Wahnsinn wie sich die Hunde durch den Tiefschnee wühlen, mit welcher Energie und Kraft. Tore hat sie dabei noch etwas nach links/rechts dirigiert und trainiert. Selbst für meinen Schlitten an 3. Stelle mussten sich meine Hunde immer wieder durch tiefe Löcher kämpfen. Und man kann selber gar nicht mit Schieben helfen, da man mit dem Fuss auch sofort im Schnee steckt. Ich habe einen Riesen-Respekt vor dieser Leistung der Hunde.
 
-#### Video
+<center>
 
-https://youtu.be/OMfRs1a7z9w
-
-Tore geht nochmals durch bevor wir starten
-
+`youtube: https://youtu.be/OMfRs1a7z9w`
+### Tore geht nochmals durch bevor wir starten
+</center>   
 
 Der Weg geht dann weiter mitten durch die Wildnis. Völlig unberührte Natur, keine Spur von anderen Schlitten, Menschen, nur Landschaft. Ich habe so etwas schönes an Natur noch nicht vorher gesehen. Dieser Mix an Bergen, Schneefeldern, Sonne, wolkenloser Himmel, Stille, so stelle ich mir die Eiswüsten von Spitzbergen (Svalbard), Grönland oder der Antarktis vor.
 
@@ -59,11 +58,11 @@ Pause haben wir zusammen mitten im Traum gemacht: In der Sonne sitzend, mit Blic
 
 <rehype-image src="IMG_0870.JPG"><center>Pause in einer Traumlandschaft</center></rehype-image>
 
-#### Video
+<center>
 
-https://youtu.be/nVwfg1HdWag
-
-Blick über die Landschaft, die Hunde geben mal Ruhe
+`youtube: https://youtu.be/nVwfg1HdWag`
+### Blick über die Landschaft, die Hunde geben mal Ruhe
+<center>
 
 Nach der Mittagspause gehts weiter über Schneefelder mitten durch Berge. Einmal kommen Schneemobile mit angehängtem Schlitten vorbei, das sah nach arbeitenden Sami aus. Ein alleiniges Rentier haben wir aus der Ferne gesehen, sonst nur Landschaft. Danach ging es über etwas befahrenere Trails Richtung Schweden.
 

@@ -74,11 +74,11 @@ Dafür war das Lager mitten im Tiefschnee. Alles war doppelt anstrengend: die Hu
 
 Sonst wieder Routine: Hunde abschirren, Zelt aufbauen, Hunde füttern, kochen/essen, heizen. Und an meinem Geburtstag lag ich vor 20:00 schon müde und zufrieden im warmen Schlafsack.
 
-#### Video
+<center>
 
-https://youtu.be/08egq1QZ6gc
-
-Zeltaufbau im Tiefschnee
+`youtube: https://youtu.be/08egq1QZ6gc`
+### Zeltaufbau im Tiefschnee
+</center>
 
 
 Apropos Schlafsack: wir haben inzwischen gelernt, dass alles im Zelt am nächsten Morgen richtig kalt wenn nicht sogar gefroren ist. Deswegen habe ich alles was warm sein sollte (SmartPhone, zus. Ladeakku, Mütze, Handschuhe) immer in den Schlafsack mit reingenommen. Ich hatte auch immer 2 Lagen im Schlafsack an: Merino Woll-Unterwäsche (260er), und noch eine Lage drüber (Hose, Vlies-Pullover). Kamilla braucht auch ganz dringend ihre Wasserflasche nachts mit heissem Wasser gefüllt als Wärmflasche im Schlafsack !
