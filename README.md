@@ -1,4 +1,5 @@
-https://travis-ci.org/JochenHiller/jochenontour.svg?branch=master
+[![Build Status](https://travis-ci.org/JochenHiller/jochenontour.svg?branch=master)](https://travis-ci.org/JochenHiller/jochenontour)
+
 
 # jochenontour.blog
 

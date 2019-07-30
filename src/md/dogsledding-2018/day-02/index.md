@@ -49,3 +49,54 @@ Ich besitze einen [Sprachführer Sami <-> Deutsch](https://www.reise-know-how.de
 
 Das Winterquartier ist Militärgelände, was die Sami Familie seit 8 Jahren im Winter nutzen dürfen. Es gibt keinen Strom, da in Sichtweite eine Gas-Förderanlaege im Fjord steht. Alle Gebäude (Lavvu Zelt, Blockhaus) müssen in wenigen Tagen abgebaut werden können. Der Rentier Besitzer Johan-Isak ist mit seiner Herde, ca. 300 Tiere, im Winter wegen den Raubtieren im Landesinnern an die Küste gezogen. Die grössten Feinde sind Luchs und [Vielfraß](https://de.wikipedia.org/wiki/Vielfra%C3%9F) (Wolverine), die reissen regelmässig Rentiere. Seit dem Umzug ist sein "Ertrag" mit den Rentieren besser als je zuvor. Die Veranstaltungen mit den Touristen macht er seit 3 Jahren, er findet das sehr "praktisch" wenn die Gäste das Futter bezahlen und auch noch selber die Arbeit machen und verfüttern :smiley: (TODO)
 
+Die Rentiere hatten teilweise farbige Ohrmarken wie bei uns (Kommentar der Sami: "die Ohrmarken halten aber eh nicht"). Sie waren immer noch nach Sami Art markiert: Schnitte in die Ohren, ein Ohr hat das Zeichen der Familie, das andere Ohr das Zeichen des Besitzers.
+
+Die Moderne ist auch bei den Sami angekommen: die weiblichen Leitkühe haben Satellitensender (Batterie hält ca. 1 Jahr). Gesucht und zusammengetrieben werden die Tiere nicht nur mit Schneemobile (der Schlitten und Ski sind Vergangenheit) sondern auch mit Hubschraubern. Der neueste Schrei sind Drohnen mit denen sie die Tiere suchen können.
+(Kollegen: Use cases für NB-IoT ?)
+
+Anschliessend gab es traditionelles Essen: einen leckeren Rentier Eintopf, dazu Kaffee vom offenen Feuer. Als Abschluss hat Johan-Isak einiges über die Sami und ihre Tradition erzählt. Nur 5% der Samen leben noch als Rentierhirten, auch nur Saisonbedingt als Nomaden, die anderen Sami sind in die Gesellschaften von Norwegen/Schweden/Finnland/Russland integriert. Das Bewusstsein für Tradition und Sprache nimmt wieder stark zu, es gibt viele Samische Schulen, die heutige Generation lernt wieder die Sprache und Handwerkstraditionen.
+
+<rehype-image src="IMG_0570.JPG"><center>Rentier Eintopf</center></rehype-image>
+
+Die traditionelle Kleidung sagt aus, aus welcher Familie der Träger kommt. Gürtel, Schnallen haben alle ihre spezielle Bedeutung. Er hat noch Festtagskleidung und Mützen gezeigt. Von Rentieren wird alles irgendwie verarbeitet, zu Handschuhen, Hosen, Messergriffe.
+
+<photo-composition>
+<rehype-image src="IMG_0578.JPG"><center>Johan-Isak mit Festtags Mütze</center></rehype-image>
+<rehype-image src="IMG_0579.JPG"><center>Frauen Festtags Mütze</center></rehype-image>
+</photo-composition>
+
+Er hat am Ende noch den [Joik](https://de.wikipedia.org/wiki/Joik) an sein Winterquartier gesungen. Joik'en ist ein (etwas eigenwilliger) Gesang an etwas Lebendiges, die Natur, Tiere, Menschen.
+
+Ich bin weiterhin von dieser Kultur fasziniert, wobei nur noch wenige das Privileg (oder die harte Arbeit ?) haben das leben zu dürfen.
+
+## Schneeschuhwandern über Tromsø
+
+Ich hatte schon morgens geplant anschliessend eine Schneeschuhtour zu machen, und mir Schneeschuhe und Stöcke [ausgeliehen](http://www.tromsooutdoor.no/snowshoeing-on-your-own.392149.en.html). Der Bus hat mich auf dem Rückweg an der [Eiskathedrale](https://www.ishavskatedralen.no/en/the-arctic-cathedral/) von Tromsø aussteigen lassen. Von dort bin ich zum "Cable Car", der Talstation der Seilbahn gelaufen. Von dort gehen mehrere Wanderwege den Berg auf den [Fjellheisen](https://fjellheisen.no/en) hoch, Tromsø's schönster Ausblick.
+
+<photo-composition>
+<rehype-image src="IMG_0581.JPG"><center>Eiskathedrale</center></rehype-image>
+<rehype-image src="IMG_0587.JPG"><center>Rechts gehts zur langen Wanderung</center></rehype-image>
+</photo-composition>
+
+Die Wanderung war super schön, ich war fast alleine unterwegs, erst auf dem Hochplateau waren Skitourengeher und Schneeschuhwanderer zu sehen. Ich bin ein paar mal vom Wanderweg weg direkt durch das Gelände. Teilweise bin ich trotz Schneeschuhe bis zu einem halben Meter im Tiefschnee eingesunken, sehr anstrengend.
+
+<photo-composition>
+<rehype-image src="IMG_0620.JPG"><center>durch den lichten Wald den Berg hoch</center></rehype-image>
+<rehype-image src="IMG_0654.JPG"><center>Blick auf Tromsø und den Fjord</center></rehype-image>
+<rehype-image src="IMG_0655.JPG"><center>Durch den Tiefschnee</center></rehype-image>
+<rehype-image src="IMG_0660.JPG"><center>Panoramablick auf dem Hochplateau</center></rehype-image>
+</photo-composition>
+
+An der Bergstation (liegt auf 420 m Höhe) habe ich erstmal Pause gemacht und viel getrunken. Der Blick aus dem Restaurant: wie gemalt.
+
+<photo-composition>
+<rehype-image src="IMG_0677.JPG"><center>Traditionell: Waffel mit Sahne und Marmelade</center></rehype-image>
+<rehype-image src="IMG_0678.JPG"><center>Blick aus dem Restaurant</center></rehype-image>
+</photo-composition>
+
+Auf dem Fussweg zurück zum Hotel (40 min) habe ich noch beim Bäcker halt gemacht und den besten Kaffee in Tromsø getrunken. Heute ist durch den Feiertag (Ostermontag) tote Hose, die Cafes haben zu.
+
+Morgen vormittag um 11:00 gehts dann los: ich muss noch die Schneeschuhe zurückbringen, mein Gepäck aufteilen was auf den Hunderschlitten mitgeht und was beim Veranstalter bleibt. Abgeholt werde ich wie üblich im Radisson Blu.
+
+
+
