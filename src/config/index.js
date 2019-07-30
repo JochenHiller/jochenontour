@@ -4,7 +4,7 @@ module.exports = {
   description: `Roadtrips through the world`,
   twitter: `jochenhiller`,
   instagram: `jochen.hiller`,
-  gaId: `UA-xxx`,
+  gaId: `UA-144919458-1`,
   email: `jo.hiller@gmail.com`,
   github: `JochenHiller/jochenontour`,
   facebook: `jo.hiller`,

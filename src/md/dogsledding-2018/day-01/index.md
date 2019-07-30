@@ -8,10 +8,10 @@ country: "Lappland"
 type: "article"
 duration: 1
 featured: false
-itinerary: []
+itinerary: ["Ulm", "München", "Oslo", "Tromsø"]
 km: 0
 coordinates: [
-    { coordinates: [20.58999764, 67.843163294], country: 'Lappland' },
+    { coordinates: [18.9509118, 69.6467577], country: 'Norwegen' },
 ]
 ---
 
