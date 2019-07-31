@@ -3,7 +3,7 @@
 <url> <loc>https://jochenontour.blog/destination/Lappland</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://jochenontour.blog/tag/hundeschlitten</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://jochenontour.blog/tag/lappland</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://jochenontour.blog/dogsledding-2018/day-11</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://jochenontour.blog/dogsledding-2018/summary</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://jochenontour.blog/dogsledding-2018/day-10</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://jochenontour.blog/dogsledding-2018/day-09</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://jochenontour.blog/dogsledding-2018/day-08</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -16,6 +16,7 @@
 <url> <loc>https://jochenontour.blog/dogsledding-2018/day-01</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://jochenontour.blog/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://jochenontour.blog/archive/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://jochenontour.blog/impressum/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://jochenontour.blog/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://jochenontour.blog/photos/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
