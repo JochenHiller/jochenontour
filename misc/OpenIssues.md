@@ -4,6 +4,7 @@
 
 * Migrating more content from old blog
 * Start blog for Mongolia
+* add build time to some version information
 * align images within text (left, right)
 * Typography pages does not work
 * Check if RSS does work in PROD version
