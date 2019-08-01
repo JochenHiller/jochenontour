@@ -2,17 +2,10 @@
 path: "/dogsledding-2018/summary"
 date: "2018-04-11"
 title: "Hundeschlitten Expedition im April 2018 mit Active Tromsø"
-tags: ["Hundeschlitten", "Lappland",]
+tags: ["Hundeschlitten", "Norwegen",]
 cover: "./cover.jpg"
-country: "Lappland"
 type: "article"
 featured: true
-duration: 1
-itinerary: ["Tromso"]
-km: 0
-coordinates: [
-    { coordinates: [20.58999764, 67.843163294], country: 'Lappland' },
-]
 ---
 
 Dieser Blog Post verlinkt alle Blog Einträge, die meine Hundeschlitten Tour (besser: Expedition) im April 2018 mit Active Tromsø (Tore, Sandra, Maja) und dem Team mit Kamilla, Trond Åge, Sanne, Erik und Richard beschreiben.

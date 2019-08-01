@@ -2,16 +2,16 @@
 path: "/dogsledding-2018/day-02"
 date: "2018-04-02"
 title: "Bei den Sami, Schneeschuhwandern über Tromsø"
-tags: ["Hundeschlitten", "Lappland",]
+tags: ["Hundeschlitten", "Norwegen",]
 cover: "./cover.jpg"
-country: "Lappland"
 type: "article"
-duration: 1
 featured: false
-itinerary: []
-km: 0
+country: "Norwegen"
+km: 50
+duration: 1
+itinerary: ["Tromsø", "Kvaløysletta", "Tromsdalen", "Fjellheisen"]
 coordinates: [
-    { coordinates: [20.58999764, 67.843163294], country: 'Lappland' },
+    { coordinates: [18.9849872, 69.6376413], country: 'Norwegen' },
 ]
 ---
 

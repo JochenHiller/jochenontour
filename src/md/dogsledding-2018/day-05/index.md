@@ -2,17 +2,14 @@
 path: "/dogsledding-2018/day-05"
 date: "2018-04-05"
 title: "Tag 2: Durch Norwegens Traumlandschaft, Kochen und Essen"
-tags: ["Hundeschlitten", "Lappland",]
+tags: ["Hundeschlitten", "Norwegen",]
 cover: "./cover.jpg"
-country: "Lappland"
 type: "article"
-duration: 1
 featured: false
+country: "Finnland"
+km: 35
+duration: 1
 itinerary: []
-km: 0
-coordinates: [
-    { coordinates: [20.58999764, 67.843163294], country: 'Lappland' },
-]
 ---
 
 

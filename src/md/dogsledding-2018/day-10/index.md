@@ -2,17 +2,14 @@
 path: "/dogsledding-2018/day-10"
 date: "2018-04-10"
 title: "Rückreise nach Hause, Klimawechsel"
-tags: ["Hundeschlitten", "Lappland",]
+tags: ["Hundeschlitten", "Norwegen",]
 cover: "./cover.jpg"
-country: "Lappland"
 type: "article"
-duration: 1
 featured: false
-itinerary: []
+country: "Norwegen"
 km: 0
-coordinates: [
-    { coordinates: [20.58999764, 67.843163294], country: 'Lappland' },
-]
+duration: 1
+itinerary: ["Tromsø", "Oslo", "München", "Ulm"]
 ---
 
 Heute geht es nach Hause: vorher besichtige ich in Tromsø das Polarmuseum, dann geht es über Oslo und München nach Hause.

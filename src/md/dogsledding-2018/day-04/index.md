@@ -2,16 +2,16 @@
 path: "/dogsledding-2018/day-04"
 date: "2018-04-04"
 title: "Tag 1: Tourstart in Norwegen, rauf in die Berge"
-tags: ["Hundeschlitten", "Lappland",]
+tags: ["Hundeschlitten", "Norwegen",]
 cover: "./cover.jpg"
-country: "Lappland"
 type: "article"
-duration: 1
 featured: false
-itinerary: []
-km: 0
+country: "Norwegen"
+km: 200
+duration: 1
+itinerary: ["Fishing Hut", "Tromsø", "Skibotn", "Kilpisjärvi"]
 coordinates: [
-    { coordinates: [20.58999764, 67.843163294], country: 'Lappland' },
+    { coordinates: [20.5231204, 69.044372], country: 'Norwegen' },
 ]
 ---
 

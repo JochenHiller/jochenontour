@@ -2,17 +2,14 @@
 path: "/dogsledding-2018/day-06"
 date: "2018-04-06"
 title: "Tag 3: Über Trails in Schwedens Hochland, Winter Camping"
-tags: ["Hundeschlitten", "Lappland",]
+tags: ["Hundeschlitten", "Norwegen",]
 cover: "./cover.jpg"
-country: "Lappland"
 type: "article"
-duration: 1
 featured: false
+country: "Schweden"
+km: 50
+duration: 1
 itinerary: []
-km: 0
-coordinates: [
-    { coordinates: [20.58999764, 67.843163294], country: 'Lappland' },
-]
 ---
 
 An meinem Geburtstag sind wir durch Schweden gefahren. Wir haben gute Trails und begegnen das erste Mal wieder anderen Menschen. Am Viske Camp haben wir Futter nachgeladen, und am Kiosk Cola und Süssigkeiten kaufen können.

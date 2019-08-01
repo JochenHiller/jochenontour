@@ -18,7 +18,7 @@ Jochen Hiller
 
 **Kontakt:**
 
-Telefon: +49 731 710363, E-Mail: jochen.hiller [at] gmx.net
+Telefon: +49 731 97745851 , E-Mail: jochen.hiller [at] gmx.net
 
 **Haftungsausschluss:**
 

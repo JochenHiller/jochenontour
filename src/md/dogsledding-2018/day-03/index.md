@@ -2,16 +2,16 @@
 path: "/dogsledding-2018/day-03"
 date: "2018-04-03"
 title: "Auf nach Kvaløya zu den Hunden"
-tags: ["Hundeschlitten", "Lappland",]
+tags: ["Hundeschlitten", "Norwegen",]
 cover: "./cover.jpg"
-country: "Lappland"
 type: "article"
-duration: 1
 featured: false
-itinerary: []
-km: 0
+country: "Norwegen"
+km: 40
+duration: 1
+itinerary: ["Tromsø", "Active Tromsø", "Fishing Hut"]
 coordinates: [
-    { coordinates: [20.58999764, 67.843163294], country: 'Lappland' },
+    { coordinates: [20.58999764, 67.843163294], country: 'Norwegen' },
 ]
 ---
 

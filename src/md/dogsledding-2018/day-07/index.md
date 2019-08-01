@@ -2,17 +2,14 @@
 path: "/dogsledding-2018/day-07"
 date: "2018-04-07"
 title: "Tag 4: Durch Schwedens Wälder, Schlittenhunde"
-tags: ["Hundeschlitten", "Lappland",]
+tags: ["Hundeschlitten", "Norwegen",]
 cover: "./cover.jpg"
-country: "Lappland"
 type: "article"
-duration: 1
 featured: false
+country: "Schweden"
+km: 50
+duration: 1
 itinerary: []
-km: 0
-coordinates: [
-    { coordinates: [20.58999764, 67.843163294], country: 'Lappland' },
-]
 ---
 
 Es geht weiter durch Schwedens Wälder und über Seen. Wieder eine komplett andere Landschaft, wir sehen wieder etwas Zivilisation.

@@ -2,14 +2,14 @@
 path: "/dogsledding-2018/day-01"
 date: "2018-04-01"
 title: "Auf nach Norwegen zu den Schlittenhunden"
-tags: ["Hundeschlitten", "Lappland",]
+tags: ["Hundeschlitten", "Norwegen",]
 cover: "./cover.jpg"
-country: "Lappland"
 type: "article"
-duration: 1
 featured: false
-itinerary: ["Ulm", "München", "Oslo", "Tromsø"]
+country: "Norwegen"
 km: 0
+duration: 1
+itinerary: ["Ulm", "München", "Oslo", "Tromsø"]
 coordinates: [
     { coordinates: [18.9509118, 69.6467577], country: 'Norwegen' },
 ]

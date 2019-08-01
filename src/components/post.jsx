@@ -56,7 +56,7 @@ const Post = ({
       elevation="medium"
     >
       {header}
-      <Box pad="medium" align="center" as="article">
+      <Box pad="medium" align="left" as="article">
         {content}
       </Box>
       {size !== `small` && (

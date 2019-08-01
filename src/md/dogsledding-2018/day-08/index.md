@@ -2,17 +2,14 @@
 path: "/dogsledding-2018/day-08"
 date: "2018-04-08"
 title: "Tag 5: Lange Tour über Seen und durch Wälder, die letzte Nacht"
-tags: ["Hundeschlitten", "Lappland",]
+tags: ["Hundeschlitten", "Norwegen",]
 cover: "./cover.jpg"
-country: "Lappland"
 type: "article"
-duration: 1
 featured: false
-itinerary: []
+country: "Schweden"
 km: 0
-coordinates: [
-    { coordinates: [20.58999764, 67.843163294], country: 'Lappland' },
-]
+duration: 1
+itinerary: []
 ---
 
 Heute war der längste Tag der Tour: 71 km haben uns die Hunde über Seen und durch Wälder gezogen ! Am Abend sind die Hunde wie die Menschen müde.

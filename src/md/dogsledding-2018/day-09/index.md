@@ -2,16 +2,16 @@
 path: "/dogsledding-2018/day-09"
 date: "2018-04-09"
 title: "Tag 6: \"Ankomst\" in Kiruna"
-tags: ["Hundeschlitten", "Lappland",]
+tags: ["Hundeschlitten", "Norwegen",]
 cover: "./cover.jpg"
-country: "Lappland"
 type: "article"
-duration: 1
 featured: false
-itinerary: []
+country: "Schweden"
 km: 0
+duration: 1
+itinerary: [""Icehotel", "Kiruna", "Tromsø"]
 coordinates: [
-    { coordinates: [20.58999764, 67.843163294], country: 'Lappland' },
+    { coordinates: [18.9509118, 69.6467577], country: 'Norwegen' },
 ]
 ---
 
