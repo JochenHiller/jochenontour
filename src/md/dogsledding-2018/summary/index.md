@@ -6,6 +6,8 @@ tags: ["Hundeschlitten", "Norwegen",]
 cover: "./cover.jpg"
 type: "article"
 featured: true
+country: "Norwegen"
+km: 0
 ---
 
 Dieser Blog Post verlinkt alle Blog Einträge, die meine Hundeschlitten Tour (besser: Expedition) im April 2018 mit Active Tromsø (Tore, Sandra, Maja) und dem Team mit Kamilla, Trond Åge, Sanne, Erik und Richard beschreiben.
