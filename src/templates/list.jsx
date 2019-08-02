@@ -16,11 +16,9 @@ function List({ pageContext }) {
     <App title={`Jochen On Tour - ${capitalize(title)}`}>
       {type !== `tag` && (
         <Box width="xxlarge" alignSelf="center" margin={{ vertical: `small` }}>
-        {/* FIXED: only center when coords set */}
-        {coords != undefined ? (
+        {/* FIXED: only show map when at least one coordinate is set */}
+        {_.sample(coords) != undefined && (
           <Map cities={coords} zoom={3} center={_.sample(coords).coordinates} />
-        ) : (
-          <Map cities={coords} zoom={3} />
         )}
         </Box>
       )}
