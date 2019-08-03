@@ -6,12 +6,12 @@ tags: ["Hundeschlitten", "Norwegen",]
 cover: "./cover.jpg"
 type: "article"
 featured: false
-country: "Norwegen"
+country: "Finnland"
 km: 200
 duration: 1
 itinerary: ["Fishing Hut", "Tromsø", "Skibotn", "Kilpisjärvi"]
 coordinates: [
-    { coordinates: [20.5231204, 69.044372], country: 'Norwegen' },
+    { coordinates: [20.5231204, 69.044372], country: 'Finnland' },
 ]
 ---
 

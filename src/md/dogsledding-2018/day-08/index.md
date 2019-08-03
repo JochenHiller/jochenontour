@@ -78,7 +78,7 @@ Nach der Pause geht es dann zum Glück wieder in Wälder hinein. Nach einer län
 
 `youtube: https://youtu.be/A9Huso0Ig_8`
 ### Letzter Halt vor der Downhill Sektion
-<center>
+</center>
 
 Danach ging es wieder über Seen weiter. Am Ende hat Tore noch einen Tiefschnee Einlage mit seinem Schlitten gemacht, um alle Schlitten der Reihe nach am Seerand zu parken. Wahnsinn was die Hunde dabei leisten.
 

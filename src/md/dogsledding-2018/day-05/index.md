@@ -6,8 +6,8 @@ tags: ["Hundeschlitten", "Norwegen",]
 cover: "./cover.jpg"
 type: "article"
 featured: false
-country: "Finnland"
-km: 35
+country: "Norwegen"
+km: 41
 duration: 1
 itinerary: []
 ---
@@ -59,7 +59,7 @@ Pause haben wir zusammen mitten im Traum gemacht: In der Sonne sitzend, mit Blic
 
 `youtube: https://youtu.be/nVwfg1HdWag`
 ### Blick über die Landschaft, die Hunde geben mal Ruhe
-<center>
+</center>
 
 Nach der Mittagspause gehts weiter über Schneefelder mitten durch Berge. Einmal kommen Schneemobile mit angehängtem Schlitten vorbei, das sah nach arbeitenden Sami aus. Ein alleiniges Rentier haben wir aus der Ferne gesehen, sonst nur Landschaft. Danach ging es über etwas befahrenere Trails Richtung Schweden.
 
@@ -88,7 +88,7 @@ Wir haben diesmal in der Hütte mit 2 Kochern gekocht, und Dryfood gegessen. Gef
 
 Tore hat uns anhand von Karten grob erklärt, wo wir waren, und wohin unsere Tour noch weiterführt. Er entscheidet aber von Tag zu Tag nach Wetter, Lawinengefahr, Schneeverhältnisse wie wir genau weiterfahren. Am heutigen Tag ist er Gebieten mit Lawinengefahr ausgewichen. Wir sind heute nach GPS von Trond Åge ca. 41 km gefahren.
 
-Kamilla hat sich beim Abendessen als totale Expertin für Hunderennen geoutet: sie kennt die ganzen Musher und Ergebnisse der [Finnmarksløpet](http://www.finnmarkslopet.no/). Das ist **DAS** Hundeschlittenrennen in der Finnmark, das in Alta beginnt und endet, und über Distanzen von 500 km oder 1100 km geht.
+Kamilla hat sich beim Abendessen als totale Expertin für Hunderennen geoutet: sie kennt die ganzen Musher und Ergebnisse der [Finnmarksløpet](http://www.finnmarkslopet.no/). Das ist **DAS** Hundeschlittenrennen in der Finnmark (der nördlichste Teil von Norwegen), das in Alta beginnt und endet, und über Distanzen von 500 km oder 1100 km geht.
 
 Sie hat diese Hundeschlittentour übrigens von ihrem Mann zu ihrem Geburtstag geschenkt bekommen. Nach dieser Tour ist sie von einer begeisterten Zuschauerin zu einem eigenen Musher geworden und kann sich vorstellen wie anstrengend so ein Rennen ist.
 
