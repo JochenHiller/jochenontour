@@ -173,12 +173,13 @@ Index.propTypes = {
 }
 
 {/* FIXED use me.jpg instead of up.jpg */}
+{/* FIXED use GatsbyImageSharpFluid_withWebp */}
 export const pageQuery = graphql`
   query IndexQuery {
     file(relativePath: { eq: "about/me.jpg" }) {
       childImageSharp {
         fluid(maxWidth: 800, quality: 100) {
-          ...GatsbyImageSharpFluid
+          ...GatsbyImageSharpFluid_withWebp
         }
       }
     }
@@ -208,7 +209,7 @@ export const pageQuery = graphql`
             cover {
               childImageSharp {
                 fluid(maxHeight: 200, maxWidth: 300, quality: 100) {
-                  ...GatsbyImageSharpFluid
+                  ...GatsbyImageSharpFluid_withWebp
                 }
               }
             }

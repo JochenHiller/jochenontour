@@ -38,8 +38,10 @@ module.exports = {
               tag: `rehype-image`,
               quality: 80,
               maxWidth: 2112,
-              toFormat: `WEBP`,
+              /* FIXED: do not enforce WEBP format, as it does not work in macOS/Safari, iOS/Chrome, iOS/Safari */
+              /* toFormat: `WEBP`, */
               srcSetBreakpoints: [1056 / 4, 1056 / 2, 1056],
+              stripMetadata: false
             },
           },
           {

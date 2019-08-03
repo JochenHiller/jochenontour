@@ -37,12 +37,13 @@ function About({ data }) {
 }
 
 {/* FIXED use me.jpg instead of up.jpg */}
+{/* FIXED use GatsbyImageSharpFluid_withWebp */}
 export const pageQuery = graphql`
   query AboutQuery {
     file(relativePath: { eq: "about/me.jpg" }) {
       childImageSharp {
         fluid(maxWidth: 800, quality: 100) {
-          ...GatsbyImageSharpFluid_noBase64
+          ...GatsbyImageSharpFluid_withWebp
         }
       }
     }

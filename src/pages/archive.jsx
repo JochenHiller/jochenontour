@@ -35,6 +35,7 @@ Archive.propTypes = {
 }
 
 {/* FIXED use me.jpg instead of up.jpg */}
+{/* FIXED use GatsbyImageSharpFluid_withWebp */}
 export const pageQuery = graphql`
   query ArchiveQuery {
     file(relativePath: { eq: "about/me.jpg" }) {
@@ -62,7 +63,7 @@ export const pageQuery = graphql`
             cover {
               childImageSharp {
                 fluid(maxHeight: 200, maxWidth: 320, quality: 100) {
-                  ...GatsbyImageSharpFluid
+                  ...GatsbyImageSharpFluid_withWebp
                 }
               }
             }

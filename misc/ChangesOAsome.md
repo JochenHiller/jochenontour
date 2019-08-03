@@ -14,6 +14,7 @@ All changes marked with `{/* FIXED ... */}`
 * blogTemplate.jsx: fixed to include TripDetails when at least one property is set
 * list.jsx: fixed to use center only when coords are set
 * 404.jsx: Added 404 page
+* pages/*.jsx: changed from `GatsbyImageSharpFluid` to `GatsbyImageSharpFluid_withWebp`. Do NOT enforce WEBP format in gatsby-config.js as it does **not** work on macOS/Safari, iOS/Chrome, iOS/Safari
 
 ## Changed content
 
