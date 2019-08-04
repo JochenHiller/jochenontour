@@ -1,35 +1,82 @@
 import React, { Fragment } from "react"
 import PropTypes from "prop-types"
 import { graphql } from "gatsby"
-import { Box } from "grommet"
+import { Box, Heading } from "grommet"
+import styled from "styled-components"
 
 import Section from "../components/section"
 import Seo from "../components/seo"
 import App from "../components/layout"
 import { renderAst } from "../tools"
 
+const Toc = styled.div`
+  word-wrap: break-word;
+
+  ul {
+    margin: 0;
+    list-style-type: none;
+    padding-left: 1em;
+  }
+
+  li {
+    padding: 2px;
+  }
+  a {
+    color: rgba(0, 0, 0, 0.54);
+    text-decoration: none;
+  }
+  a:hover {
+    color: black;
+  }
+`
+
+{/* FIXED: take SEO title from config.js */}
 function Typography({ data }) {
+  const { markdownRemark } = data // data.markdownRemark holds our post data
+  const { tableOfContents } = markdownRemark
+
   return (
     <Fragment>
       <Seo
         postImage={data.file.childImageSharp.fluid.src}
         postData={{
           frontmatter: {
-            title: `Typography - Jochen On Tour blog`,
-            path: `/about/typography`,
+            title: "`Typography - {config.title}`",
+            path: `/typography`,
           },
         }}
       />
       <App title="Typography">
         <Section>
+        <Box
+          width="xxlarge"
+          justify="around"
+          direction="row-responsive"
+          pad="small"
+          alignSelf="center"
+          margin="small"
+        >
           <Box
-            margin={{ horizontal: `xlarge`, vertical: `small` }}
             pad="medium"
             align="center"
             elevation="medium"
+            margin="small"
           >
             {renderAst(data.markdownRemark.htmlAst)}
           </Box>
+          <Box
+            width="large"
+            elevation="small"
+            pad="large"
+            margin="small"
+          >
+            <Heading level="4" border="5">Contents</Heading>
+            <Toc
+              margin="xsmall"
+              border="1"
+              dangerouslySetInnerHTML={{ __html: tableOfContents }} />
+          </Box>
+        </Box>
         </Section>
       </App>
     </Fragment>
@@ -47,11 +94,13 @@ export const pageQuery = graphql`
         }
       }
     }
-    markdownRemark(frontmatter: { path: { eq: "/about/typography" } }) {
+    markdownRemark(frontmatter: { path: { eq: "/typography" } }) {
       htmlAst
       frontmatter {
         path
       }
+      tableOfContents(pathToSlugField: "frontmatter.path")
+
     }
   }
 `

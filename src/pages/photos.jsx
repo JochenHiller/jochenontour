@@ -9,6 +9,7 @@ import Posts from "../components/posts"
 import { flatten } from "../tools"
 import Seo from "../components/seo"
 
+{/* FIXED: take SEO title from config.js */}
 function PhotosArchive({ data }) {
   const { edges: posts } = data.allMarkdownRemark
   return (
@@ -17,7 +18,7 @@ function PhotosArchive({ data }) {
         postImage={data.file.childImageSharp.fluid.src}
         postData={{
           frontmatter: {
-            title: `Photography articles - Jochen On Tour blog`,
+            title: "`Photography articles - {config.title}`",
             path: `/photos/`,
           },
         }}

@@ -44,7 +44,7 @@ const getSchemaOrgJSONLD = ({ url, title, image, description, isBlogPost }) => {
         description,
         author: {
           "@type": `Person`,
-          name: `JochenOnTour`,
+          name: config.titleShort,
         },
         mainEntityOfPage: {
           "@type": `WebSite`,

@@ -30,7 +30,8 @@ const Header = ({ title, toggleSidebar, showSidebar }) => {
             onClick={() => toggleSidebar(!showSidebar)}
           />
           <Heading level="2" margin={{ left: `small`, vertical: `none` }}>
-            {title || `Jochen On Tour Blog`}
+            {/* FIXED: take name from config.js */}
+            {title || config.title}
           </Heading>
         </Box>
         {size !== `small` && (

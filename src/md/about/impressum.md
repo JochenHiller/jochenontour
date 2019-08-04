@@ -1,6 +1,6 @@
 ---
 path: "/about/impressum"
-date: "2019-07-27"
+date: "2018-01-01"
 title: "Impressum"
 type: "impressum"
 ---

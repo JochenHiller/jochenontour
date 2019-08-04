@@ -4,6 +4,7 @@ import { Grommet, Box, ResponsiveContext } from "grommet"
 import "typeface-indie-flower"
 import "typeface-lato"
 import { createGlobalStyle } from "styled-components"
+import config from "../config"
 
 import { customTheme } from "../theme"
 import Instafeed from "./instafeed"
@@ -42,9 +43,10 @@ App.propTypes = {
   title: PropTypes.string,
 }
 
+{/* FIXED: take title from config.js */}
 App.defaultProps = {
   children: null,
-  title: `Jochen On Tour blog`,
+  title: `${config.title}`,
 }
 
 export default App

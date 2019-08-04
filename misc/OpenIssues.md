@@ -3,19 +3,20 @@
 ## Under development
 
 * Migrating more content from old blog
-* Start blog for Mongolia
 * add build time to some version information
-* align images within text (left, right)
-* Typography pages does not work
-* Check if RSS does work in PROD version
-* One sample with a photo album, change component to use more space
-* Images with captions
-* Archive, Destinations: add link to "more", or pagination
-* Add plugin for emoji, check TODOs
-* Check links to old blog, replace by new one when ready
+* Check RSS content
 
 ## Future
 
+* Video component, caption centered, size depends on space
+* Images sized, depends on space
+* align images within text (left, right)
+* One sample with a photo album, change component to use more space
+* Images with captions
+* Photo gallery
+* Archive, Destinations: add link to "more", or pagination
+* Add plugin for emoji, check TODOs
+* Check links to old blog, replace by new one when ready
 * 404 page: add link/move to search page
 * Posts without cover image (make optional)
 * Add country info main menu
@@ -24,12 +25,17 @@
   * show sites
 * Archive: submenu by year sorted, auto-scan and create submenues like destinations
 * Tags menu, with all tags (travels)
-  
+* Distributed monitoring of website
+* Automatic testing of all links in website, UI tests with different browsers
+* Rework impressum, "Datenschutzerklaerung"
 
 ## Done
 
+* ~~First version of Mongolia blog~~
+* ~~Fixed blog name to use from config.js~~
+* ~~Added Typography page for testing~~
 * ~~Added YouTube Video support~~
-* ~~Addedd Impressum~~
+* ~~Added Impressum~~
 * ~~Added Google Analytics~~
 * ~~Deploy to GitHub pages~~
 * ~~Initial version~~

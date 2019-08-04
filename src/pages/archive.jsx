@@ -1,6 +1,7 @@
 import React, { Fragment } from "react"
 import { graphql } from "gatsby"
 import PropTypes from "prop-types"
+import config from "../config"
 
 import App from "../components/layout"
 import Posts from "../components/posts"
@@ -8,6 +9,7 @@ import Section from "../components/section"
 import { flatten } from "../tools"
 import Seo from "../components/seo"
 
+{/* FIXED: replace SEO title with config.title */}
 function Archive({ data }) {
   const { edges: posts } = data.allMarkdownRemark
   return (
@@ -16,7 +18,7 @@ function Archive({ data }) {
         postImage={data.file.childImageSharp.fluid.src}
         postData={{
           frontmatter: {
-            title: `Archive - Jochen On Tour blog`,
+            title: "`Archive - ` {config.title}",
             path: `/archive/`,
           },
         }}

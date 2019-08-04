@@ -1,4 +1,5 @@
 module.exports = {
+  titleShort: `JochenOnTour`,
   title: `Jochen On Tour Blog`,
   url: `https://jochenontour.blog`,
   description: `Roadtrips through the world`,

@@ -9,6 +9,8 @@ import {
   Heading,
 } from "grommet"
 import { Archive, Camera, Group, Home, FormClose, Globe } from "grommet-icons"
+import config from "../config"
+
 
 import Destinations from "./destinations"
 import ListItem from "./listItem"
@@ -24,6 +26,8 @@ const SideBarLink = ({ to, text, icon: Icon }) => (
     </InternalLink>
   </Button>
 )
+
+{/* FIXED: take header from config.js */}
 const Sidebar = ({ toggleSidebar }) => {
   const [destOpen, setDest] = useState(false)
   const size = useContext(ResponsiveContext)
@@ -46,7 +50,7 @@ const Sidebar = ({ toggleSidebar }) => {
       )}
       <Box width="small">
         <Box align="center" border="bottom">
-          <Heading level={3}>JochenOnTour</Heading>
+          <Heading level={3}>{config.titleShort}</Heading>
         </Box>
         <Box margin={{ vertical: `small` }}>
           <SideBarLink to="/" text="Home" icon={Home} />

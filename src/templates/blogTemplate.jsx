@@ -3,6 +3,7 @@ import PropTypes from "prop-types"
 import { graphql } from "gatsby"
 import { Box, Heading, ResponsiveContext } from "grommet"
 import styled from "styled-components"
+import config from "../config"
 
 import Section from "../components/section"
 import App from "../components/layout"
@@ -33,6 +34,7 @@ const Toc = styled.div`
   }
 `
 
+{/* FIXED: take App title from config.js */}
 function BlogPost({ data, pageContext }) {
   const size = useContext(ResponsiveContext)
   const { markdownRemark } = data // data.markdownRemark holds our post data
@@ -45,7 +47,7 @@ function BlogPost({ data, pageContext }) {
         postImage={frontmatter.cover.childImageSharp.fluid.src}
         postData={markdownRemark}
       />
-      <App title="Jochen On Tour blog">
+      <App title={config.title}>
         <Box
           width="xxlarge"
           justify="around"

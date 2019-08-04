@@ -2,12 +2,14 @@ import React, { Fragment } from "react"
 import PropTypes from "prop-types"
 import { graphql } from "gatsby"
 import { Box } from "grommet"
+import config from "../config"
 
 import Section from "../components/section"
 import Seo from "../components/seo"
 import App from "../components/layout"
 import { renderAst } from "../tools"
 
+{/* FIXED: take SEO title from config.js */}
 function About({ data }) {
   return (
     <Fragment>
@@ -15,7 +17,7 @@ function About({ data }) {
         postImage={data.file.childImageSharp.fluid.src}
         postData={{
           frontmatter: {
-            title: `About this blog - Jochen On Tour blog`,
+            title: "`About this blog - ` {config.title}",
             path: `/about/`,
           },
         }}

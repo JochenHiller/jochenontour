@@ -3,6 +3,7 @@ import { StaticQuery, graphql } from "gatsby"
 import Img from "gatsby-image"
 import { Box, Anchor, Stack } from "grommet"
 import { Instagram, Favorite } from "grommet-icons"
+import config from "../config"
 
 import Section from "./section"
 
@@ -44,6 +45,7 @@ const InstaPost = value => {
   )
 }
 
+{/* FIXED: replaced Section title with {config.titleShort} */}
 const Instafeed = () => (
   <StaticQuery
     query={graphql`
@@ -66,7 +68,7 @@ const Instafeed = () => (
       }
     `}
     render={data => (
-      <Section title="JochenOnTour" titleIcon={Instagram}>
+      <Section title="`${config.titleShort}`" titleIcon={Instagram}>
         {data.allInstaNode.edges.map(value => (
           <InstaPost key={value.node.id} node={value.node} />
         ))}

@@ -2,12 +2,14 @@ import React, { Fragment } from "react"
 import PropTypes from "prop-types"
 import { graphql } from "gatsby"
 import { Box } from "grommet"
+import config from "../config"
 
 import Section from "../components/section"
 import Seo from "../components/seo"
 import App from "../components/layout"
 import { renderAst } from "../tools"
 
+{/* FIXED: replace SEO title with config.title */}
 function Impressum({ data }) {
   return (
     <Fragment>
@@ -15,7 +17,7 @@ function Impressum({ data }) {
         postImage={data.file.childImageSharp.fluid.src}
         postData={{
           frontmatter: {
-            title: `Impressum - Jochen On Tour blog`,
+            title: "`Impressum - ` {config.title}",
             path: `/about/impressum`,
           },
         }}

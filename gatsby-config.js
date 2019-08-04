@@ -83,8 +83,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Jochen On Tour blog`,
-        short_name: `JochenOnTour`,
+        name: config.title,
+        short_name: config.titleShort,
         start_url: `/`,
         background_color: `#fafafa`,
         theme_color: `#EEEEEE`,

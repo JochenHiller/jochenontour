@@ -8,6 +8,7 @@ import { MapLocation, Car, Globe, Schedule } from "grommet-icons"
 import { ResponsiveContext } from "grommet"
 import CountUp from "react-countup"
 import VisibilitySensor from "react-visibility-sensor"
+import config from "../config"
 
 import App from "../components/layout"
 import Posts from "../components/posts"
@@ -131,7 +132,8 @@ const Index = ({ data }) => {
           <Box direction="row-responsive" margin="medium">
             <Box align="center" basis="3/4">
               <Text size="large">
-                <h3>Willkommen zum Blog von Jochen On Tour !</h3>
+                {/* FIXED: take blog name from config.js */}
+                <h3>Willkommen zum Blog von {config.title} !</h3>
                 Dies ist meine Reiseblog den ich vor ein paar Jahren begonnen 
                 habe zu schreiben. Ich wollte meiner Familie, meinen Freunden von unterwegs
                 meine Eindrücke in Text, Bildern oder Videos direkt weitergeben.

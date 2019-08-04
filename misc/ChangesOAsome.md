@@ -15,12 +15,14 @@ All changes marked with `{/* FIXED ... */}`
 * list.jsx: fixed to use center only when coords are set
 * 404.jsx: Added 404 page
 * pages/*.jsx: changed from `GatsbyImageSharpFluid` to `GatsbyImageSharpFluid_withWebp`. Do NOT enforce WEBP format in gatsby-config.js as it does **not** work on macOS/Safari, iOS/Chrome, iOS/Safari
+* changed all occurences of "OAsome Blog" with config.title (incl. "gatsby-config.js")
+* changed all occurences of "OAsome" with config.titleShort
 
 ## Changed content
 
 * updated yarn modules
-* changed all occurrencies of `OAsome` with `JochenOnTour` and `Jochen On Tour`
 * adapted `src/config/index.js` to my settings
+* changed blog name in "package.json"
 
 * Changed content in
   * src/config/index.js
