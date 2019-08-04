@@ -17,10 +17,6 @@ Was habe ich denn vor?
 
 Nachdem ich mit meinem neuen Reise-Motorrad (BMW R1200 GS Adventure) Geschmack an längeren Touren gefunden habe (siehe Nordkap Tour 2017), wollte ich nochmals eine _noch längere_ Tour machen. Bei der Arbeit gibt es die Möglichkeit Gehalt in Urlaub umzuwandeln. Ich habe fleissig gespart, und kann jetzt für längere Zeit in Urlaub fahren. Von der Projektarbeit passt es auch einigermassen, so dass ich in 2020 für **4 Monate** wegfahren möchte.
 
-<-- TODO Link zum Moped hier auf Artikel im Blog -->
-<-- TODO Link zu Nordkapp Tour -->
-
-
 Ich hatte das letzte Jahr viel über Weltreisen, längere Touren gelesen und Vorträge besucht. In 4 Monaten kann man in der Tat mit dem Motorrad sogar eine Weltreise machen, ein absolut authentischer Vortrag eines Weltreisenden aus meiner Gegend ([Gerhard Spiegler: Weltumrundung](https://weltumrundung-motorrad.de/Meine-Reisen/Weltumrundung/)) hat mir das gezeigt. Die wohl bekannteste Motorrad-Tour um die Welt hatte 106 Tage gedauert: ["Long way round" mit Ewan McGregor und Charley Boorman](https://en.wikipedia.org/wiki/Long_Way_Round), ein Klassiker für Motorradfahrer.
 
 Allerdings muss man in dieser knappen Zeit eher "um die Welt hetzen" als die Welt wirklich zu erleben. Und die ganze Organisation um das Motorrad zwischen Kontinenten transportieren zu lassen hat mich auch eher abgeschreckt (mal abgesehen von den Kosten). Warum nicht eine lange Reise ohne Verschiffung machen?

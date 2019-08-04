@@ -31,7 +31,7 @@
 
 ## Done
 
-* ~~First version of Mongolia blog~~
+* ~~First version of Mongolia blog (DE/EN)~~
 * ~~Fixed blog name to use from config.js~~
 * ~~Added Typography page for testing~~
 * ~~Added YouTube Video support~~
