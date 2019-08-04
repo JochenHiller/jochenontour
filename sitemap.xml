@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://jochenontour.blog/destination/Mongolei</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://jochenontour.blog/destination/Norwegen</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://jochenontour.blog/destination/Schweden</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://jochenontour.blog/destination/Finnland</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://jochenontour.blog/tag/motorrad</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://jochenontour.blog/tag/mongolei</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://jochenontour.blog/tag/hundeschlitten</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://jochenontour.blog/tag/norwegen</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://jochenontour.blog/mongolia-2020/2019-08-04-decision</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://jochenontour.blog/dogsledding-2018/summary</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://jochenontour.blog/dogsledding-2018/day-10</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://jochenontour.blog/dogsledding-2018/day-09</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
