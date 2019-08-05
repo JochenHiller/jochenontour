@@ -1,7 +1,7 @@
 ---
 path: "/mongolia-2020/2019-08-04-decision-en"
 date: "2019-08-04"
-title: "The tour of my life - off to Mongolia"
+title: "The tour of my life - off to Mongolia (english version)"
 tags: ["Motorrad", "Mongolei",]
 cover: "../2019-08-04-decision/cover.jpg"
 country: "Mongolei"

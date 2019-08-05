@@ -68,7 +68,7 @@ const Instafeed = () => (
       }
     `}
     render={data => (
-      <Section title="`${config.titleShort}`" titleIcon={Instagram}>
+      <Section title={config.titleShort} titleIcon={Instagram}>
         {data.allInstaNode.edges.map(value => (
           <InstaPost key={value.node.id} node={value.node} />
         ))}
