@@ -36,6 +36,7 @@ const Toc = styled.div`
 
 {/* FIXED: take App title from config.js */}
 function BlogPost({ data, pageContext }) {
+  console.log(data)
   const size = useContext(ResponsiveContext)
   const { markdownRemark } = data // data.markdownRemark holds our post data
   const { similar } = pageContext
@@ -88,8 +89,10 @@ function BlogPost({ data, pageContext }) {
         </Box>
         {similar.length > 1 && (
           <Section background="light-1" title="Similar articles">
+            {/* TODO why can post here be null? */}
             <Posts
               posts={similar
+                .filter(post => post !== null)
                 .filter(post => post.frontmatter.title !== frontmatter.title)
                 .slice(0, 8)}
             />
