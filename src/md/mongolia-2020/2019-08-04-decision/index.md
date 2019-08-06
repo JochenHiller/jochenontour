@@ -87,7 +87,7 @@ Das ganze ist ein Plan. Ich rechne aber stark damit dass sich der Plan unterwegs
 
 # Und wie geht es weiter?
 
-Ich werde jetzt die Vorbereitung einer solch langen Tour starten: es sind bs 01.0 Mai 2020 auch **NUR** noch 9 Monate Zeit.
+Ich werde jetzt die Vorbereitung einer solch langen Tour starten: es sind bs 01. Mai 2020 auch **NUR** noch 9 Monate Zeit.
 
 * Organisatorisches (Ausweise, Visa, Versicherungen etc.)
 * Infrastruktur (Blog, Kameras, Tracker)
@@ -101,7 +101,7 @@ Ich werde hier über die weiteren Vorbereitungen bloggen: wen es interessiert: *
 * Gerhard Spiegler (Ulm/Hörvelsingen)
   * Blog: https://weltumrundung-motorrad.de/Meine-Reisen/Weltumrundung/
   * Ich war mit Freunden auf seinem Vortrag über die Weltumrundung und seine China-Tour: ein total authentischer Vortrag, das hat mich echt inspiriert
-  * Interessant vor allem der Weg durch Russland bis nach Magadan, und sein Transport des Motorrads nach Kanada durch Bilder erklärt
+  * Interessant vor allem der Weg durch Russland bis nach Magadan, und der Transport seines Motorrads nach Kanada durch Bilder erklärt
 
 * Long Way Round, Ewan McGregor, Charley Boorman
   * Blog: https://www.longwayround.com/
