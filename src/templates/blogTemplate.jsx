@@ -36,7 +36,6 @@ const Toc = styled.div`
 
 {/* FIXED: take App title from config.js */}
 function BlogPost({ data, pageContext }) {
-  console.log(data)
   const size = useContext(ResponsiveContext)
   const { markdownRemark } = data // data.markdownRemark holds our post data
   const { similar } = pageContext
