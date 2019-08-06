@@ -18,7 +18,7 @@ function Archive({ data }) {
         postImage={data.file.childImageSharp.fluid.src}
         postData={{
           frontmatter: {
-            title: "`Archive - ` {config.title}",
+            title: `Archive - ${config.title}`,
             path: `/archive/`,
           },
         }}

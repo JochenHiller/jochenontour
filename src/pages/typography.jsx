@@ -3,6 +3,7 @@ import PropTypes from "prop-types"
 import { graphql } from "gatsby"
 import { Box, Heading } from "grommet"
 import styled from "styled-components"
+import config from "../config"
 
 import Section from "../components/section"
 import Seo from "../components/seo"
@@ -41,7 +42,7 @@ function Typography({ data }) {
         postImage={data.file.childImageSharp.fluid.src}
         postData={{
           frontmatter: {
-            title: "`Typography - {config.title}`",
+            title: `Typography - ${config.title}`,
             path: `/typography`,
           },
         }}

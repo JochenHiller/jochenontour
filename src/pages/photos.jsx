@@ -2,6 +2,7 @@ import React, { Fragment } from "react"
 import { graphql } from "gatsby"
 import PropTypes from "prop-types"
 import { Box } from "grommet"
+import config from "../config"
 
 import App from "../components/layout"
 import Section from "../components/section"
@@ -18,7 +19,7 @@ function PhotosArchive({ data }) {
         postImage={data.file.childImageSharp.fluid.src}
         postData={{
           frontmatter: {
-            title: "`Photography articles - {config.title}`",
+            title: `Photography articles - ${config.title}`,
             path: `/photos/`,
           },
         }}
