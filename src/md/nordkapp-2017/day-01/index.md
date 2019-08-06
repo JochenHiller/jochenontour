@@ -5,7 +5,7 @@ title: "Tag 01: Einmal die A7 bis zum Ende..."
 tags: ["Motorrad", "Nordkap"]
 cover: "./cover.jpg"
 type: "article"
-featured: true
+featured: false
 ---
 
 Ich habe beim Schreiben überlegt, ob ich den Tag heute als Tag 01 der Tour sehe, da es eigentlich erst ab morgen nach Norwegen geht. Nachdem ich aber jetzt 840 km in 9 h Fahrt hinter mir habe ist das glaube ich schon gerechtfertigt. Damit habe ich sogar 16 Tage um am 15.06. wieder pünktlich zu Hause zu sein ;-)
