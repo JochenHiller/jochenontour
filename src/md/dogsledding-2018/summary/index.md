@@ -97,4 +97,4 @@ Hier noch ein paar Referenzen falls es euch interessiert:
 
 ### Sonstiges
 
-* Baffin Babes: http://www.baffinbabes.com/<br >Video: https://www.youtube.com/watch?v=_DCNmpdfLKI (sehenswert !)
+* Baffin Babes: http://www.baffinbabes.com/<br />Video: https://www.youtube.com/watch?v=_DCNmpdfLKI (sehenswert !)
