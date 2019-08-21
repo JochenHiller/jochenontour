@@ -1,6 +1,6 @@
 ---
 path: "/nordkapp-2017/2017-05-31-start"
-date: "2017-05-31"
+date: "2017-05-30"
 title: "Wow: Jetzt gehts los!"
 tags: ["Motorrad", "Nordkap"]
 cover: "./cover.jpg"
