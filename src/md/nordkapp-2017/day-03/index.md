@@ -5,7 +5,7 @@ title: "Tag 03: Über Wasserfälle zur Hardangervidda"
 tags: ["Motorrad", "Nordkap"]
 cover: "./cover.png"
 type: "article"
-featured: true
+featured: false
 ---
 
 Dieser Tag läuft vermutlich als Einstimmung zum Nordkap: so (oder noch extremer ?) wird es dort werden.
