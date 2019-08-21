@@ -105,10 +105,3 @@ Der Plan für morgen: auf jeden Fall nach Tromso, wenn alles klappt kann ich dor
 <rehype-image src="IMG_2351.JPG"><center></center></rehype-image>
 <rehype-image src="IMG_2370.JPG"><center></center></rehype-image>
 </photo-composition>
-
-
-
-
-
-
-
