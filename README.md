@@ -1,6 +1,5 @@
 [![Build Status](https://travis-ci.org/JochenHiller/jochenontour.svg?branch=master)](https://travis-ci.org/JochenHiller/jochenontour)
 
-
 # jochenontour.blog
 
 This is the repository where the code, articles and photos of [https://jochenontour.blog](https://jochenontour.blog) lives!
@@ -8,13 +7,13 @@ This is the repository where the code, articles and photos of [https://jochenont
 ## Test it out locally
 
 You should be able to run this locally with `yarn install` and `gatsby develop`.
-Due to an increasing number of photos it will probably take a few seconds to build
+Due to an increasing number of photos it will probably take some minutes to build.
 
 ## License
 
-Both the texts and the photos are released under the Creative Commons License BY-NC-SA
+Both the texts and the photos are released under the [Creative Commons License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de).
 
-Code of this blog is released under the  GNU Affero General Public License 3.0
+Code of this blog is released under the [GNU Affero General Public License 3.0](https://opensource.org/licenses/AGPL-3.0).
 
 ## Credits
 
