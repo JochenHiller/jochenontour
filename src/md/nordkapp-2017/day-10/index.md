@@ -5,7 +5,7 @@ title: "Tag 10: Relaxed ins Sami Land nach Karasjok"
 tags: ["Motorrad", "Nordkap"]
 cover: "./cover.png"
 type: "article"
-featured: true
+featured: false
 ---
 
 Heute war entspannen angesagt
