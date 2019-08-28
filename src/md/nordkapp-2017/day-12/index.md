@@ -5,7 +5,7 @@ title: "Tag 12: Mit Rentieren durch Schwedisch-Lappland"
 tags: ["Motorrad", "Nordkap"]
 cover: "./cover.png"
 type: "article"
-featured: true
+featured: false
 ---
 
 Mit Rentieren musste man heute immer rechnen...
