@@ -2,12 +2,21 @@
 
 ## Under development
 
-* Migrating more content from old blog
-* add build time to some version information
-* Check RSS content
+* Fix all TODO comments
+* Find unused images (script)
+* Use link checker to check for invalid links (run via script of test case)
+* Open external links in its own window/tab
+* Check internal links, use special directive for (summary articles)
+* Check all videos, archive videos in Google Drive
+* Extend location for lat/lon/country AND place/description
+* Migrate old places to blog
+* Add summary article for Nordkapp
+* Review mongolia article, check EN translation
 
 ## Future
 
+* Check RSS content
+* add build time to some version information
 * Video component, caption centered, size depends on space
 * Images sized, depends on space
 * align images within text (left, right)
@@ -32,6 +41,7 @@
 
 ## Done
 
+* ~~Migrated main content from Oold blog~~
 * ~~First version of Mongolia blog (DE/EN)~~
 * ~~Fixed blog name to use from config.js~~
 * ~~Added Typography page for testing~~
