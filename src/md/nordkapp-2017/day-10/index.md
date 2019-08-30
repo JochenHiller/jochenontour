@@ -26,7 +26,10 @@ Schon die Anfahrt war genauso neblig wie in der Nacht, ich komme bei 2-3 Grad um
 
 Ich bin dann nochmals raus zur Weltkugel, da war es RICHTIG kalt und sehr sehr windig. Eine kleine Kostprobe.
 
-TODO Video
+<center>
+
+`youtube: https://youtu.be/_z6qltGS0NE`
+</center>
 
 Mein Eindruck war, dass der grösste Anteil der Besucher aus Deutschland kam, überall haben sie deutsch um mich herum gesprochen.
 

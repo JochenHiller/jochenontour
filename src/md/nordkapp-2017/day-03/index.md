@@ -88,6 +88,7 @@ Und: es hat fast den ganzen Tag geregnet. Ich war komplett in Regenklamotten unt
 <rehype-image src="IMG_1605.JPG"><center></center></rehype-image>
 <rehype-image src="IMG_1621.JPG"><center></center></rehype-image>
 <rehype-image src="IMG_1622.JPG"><center></center></rehype-image>
+<rehype-image src="IMG_1626.JPG"><center></center></rehype-image>
 <rehype-image src="IMG_1644.JPG"><center></center></rehype-image>
 </photo-composition>
 

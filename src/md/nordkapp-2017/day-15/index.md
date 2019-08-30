@@ -70,6 +70,7 @@ In Fehmarn war ich jetzt nach 15 Tagen wieder zurück in Deutschland! Wieder gew
 
 Kurz vor dem Ziel (5 km ausserhalb von Kiel) sehe ich auf meinem Navi den Ort "[Kalifornien](https://de.wikipedia.org/wiki/Sch%C3%B6nberg_(Holstein)#Geschichte)" eingeblendet. Da muss ich auf jeden Fall vorbeischauen. Marco hat mir später erzählt dass die Ortsteile Kalifornien und Brasilien auf gestrandete Schiffe zurückgehen. Es gibt noch mehr witzige Orte und Strassen in der Gegend, dazu gibt es einen netten [Artikel](https://www.shz.de/regionales/schleswig-holstein/panorama/von-brasilien-bis-england-so-international-sind-die-ortsnamen-in-sh-id14427791.html).
 
+<rehype-image src="IMG_3671.JPG"><center></center></rehype-image>
 
 Dann bin ich endlich am frühen Abend bei Marco und seiner Familie eingetroffen. Marco und ich waren vor einigen Jahren Kollegen, und ein paar Jahre gemeinsam beim Klettern unterwegs, im Rhein-Main Gebiet und in Italien, Arco. Unser beider letztes Campingerlebnis war zusammen mit einem weiteren Freund in Arco auf einem typischen [Kletter-Campingplatz](http://www.camping.it/en/trentino/arco/): vom Zelt aus Sicht auf die grossen Wände des Sarcha Tals. Marco ist inzwischen vom Klettern und Hochtouren auf Triathlon umgestiegen, und hat schon mehrere IronMan erfolgreich bestanden. Ich würde mal sagen: "[Er ist fit wie ein Turnschuh](https://de.wiktionary.org/wiki/fit_wie_ein_Turnschuh)".
 

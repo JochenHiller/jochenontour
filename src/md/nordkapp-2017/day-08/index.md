@@ -110,5 +110,6 @@ Ich war dann auch etwas genervt, so dass ich für den nächsten Tag gleich eine 
 <rehype-image src="IMG_2506.JPG"><center></center></rehype-image>
 <rehype-image src="IMG_2508.JPG"><center></center></rehype-image>
 <rehype-image src="IMG_2518.JPG"><center></center></rehype-image>
+<rehype-image src="IMG_2522.JPG"><center></center></rehype-image>
 <rehype-image src="IMG_2528.JPG"><center></center></rehype-image>
 </photo-composition>

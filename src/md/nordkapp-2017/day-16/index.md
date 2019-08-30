@@ -18,9 +18,15 @@ Wir haben bei Marco zusammen gefrühstückt, bevor dann alle zur Schule und Arbe
 
 @MarcoEtAl Vielen Dank nochmals für den netten Aufenthalt. Es war schön euch nach so vielen Jahren wieder zu sehen.
 
-TODO Video
+<center>
 
-TODO Video
+`youtube: https://youtu.be/YkVS1TMFKhI`
+</center>
+
+<center>
+
+`youtube: https://youtu.be/nqD6nIYhCKQ`
+</center>
 
 In Kiel ist einiges an Verkehr, bevor es dann über die A215 Richtung A7 geht. Auf der A215 hat es grade viel Baustellen, aber zumindest keinen Stau.
 

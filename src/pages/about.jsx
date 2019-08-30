@@ -17,7 +17,7 @@ function About({ data }) {
         postImage={data.file.childImageSharp.fluid.src}
         postData={{
           frontmatter: {
-            title: `About this blog -  ${config.title}`,
+            title: `About this blog - ${config.title}`,
             path: `/about/`,
           },
         }}

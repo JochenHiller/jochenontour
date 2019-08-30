@@ -17,7 +17,7 @@ function Impressum({ data }) {
         postImage={data.file.childImageSharp.fluid.src}
         postData={{
           frontmatter: {
-            title: "`Impressum - ` {config.title}",
+            title: `Impressum - ${config.title}`,
             path: `/about/impressum`,
           },
         }}

@@ -95,7 +95,10 @@ Ca. 40 km vor Arvidsjaur ist die Sehenswürdigkeit [Storforsen](https://de.wikip
 
 Das ganze auch als Video um die Kraft des Wassers zu demonstrieren.
 
-TODO Video
+<center>
+
+`youtube: https://youtu.be/JGSpDr9nV8c`
+</center>
 
 Dann geht es weiter nach Arvidsjaur. Ich denke nicht weiter nach, Arvidsjaur ist noch als Ziel im Navi einprogrammiert, und folge dumm dem Navi. Nach ein paar Kilometern wird die Strasse als "Unbefestigte Strasse" angekündigt, und diesmal stimmts tatsächlich. Die Strasse besteht aus immer mehr Schotter, so dass ich dann ungeplant doch noch zu einer kleinen Offroad-Einlage komme. So richtig Offroad ist es nicht, aber immerhin mal mehr Schotter als Teer.
 

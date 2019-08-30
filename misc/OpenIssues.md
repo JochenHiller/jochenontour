@@ -2,8 +2,6 @@
 
 ## Under development
 
-* Fix all TODO comments
-* Find unused images (script)
 * Use link checker to check for invalid links (run via script of test case)
 * Open external links in its own window/tab
 * Check internal links, use special directive for (summary articles)
@@ -15,7 +13,6 @@
 
 ## Future
 
-* Check RSS content
 * add build time to some version information
 * Video component, caption centered, size depends on space
 * Images sized, depends on space
