@@ -67,7 +67,7 @@ Ich laufe zu dem Jokkmokk Kommunalcenter. Dort steht eine Säule mit einem Auszu
 
 <rehype-image src="IMG_3240.JPG"><center></center></rehype-image>
 
-Jokkmokk ist das zweite Zentrum der Sami in Schwedisch-Lappland. Der größte und schon 400 Jahre alte [Sami-Markt](http://www.jokkmokksmarknad.se/hem-lule/) findet Ende Februar statt und ist eines der wichtigsten Ereignisse in Lappland.
+Jokkmokk ist das zweite Zentrum der Sami in Schwedisch-Lappland. Der größte und schon 400 Jahre alte [Sami-Markt](http://www.jokkmokksmarknad.se/en/) findet Ende Februar statt und ist eines der wichtigsten Ereignisse in Lappland.
 
 Es gibt noch einen Lappland Krimi, der in Jokkmokk, Galliväre und zu der Zeit des Sami Marks spielt: [Klara Nordin, Totenleuchten](https://www.amazon.de/Totenleuchten-Ein-Lappland-Krimi-Die-Lappland-Krimis/dp/3462046934). Ist ganz nett, eher einfach geschrieben, aber zeigt auch wieder die Sami Kultur dieser Gegend.
 

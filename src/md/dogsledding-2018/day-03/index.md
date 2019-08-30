@@ -35,7 +35,7 @@ Wir wurden von Tore nach 11:00 in Tromsø abgeholt. Nach einer 30 min Fahrt auf 
 </photo-composition>
 
 Das Team ist super nett, wir sind 8 Personen
-* [Kamilla](https://www.instagram.com/millahay/) und [Trond Åge](https://www.instagram.com/hayen1/) aus Norwegen
+* [Kamilla](https://www.instagram.com/isaksenmilla/) und [Trond Åge](https://www.instagram.com/hayen1/) aus Norwegen
 * [Sanne und Erik](https://www.instagram.com/p/BIf2m77hfmJmblo94nNyqgjuKYasjch0jlIJdQ0/?taken-by=sannevankraaij) aus Holland
 * Richard aus der Slovakei
 * Tore und [Maja](https://www.instagram.com/majabirken/), unsere Guides

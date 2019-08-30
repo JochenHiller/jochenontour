@@ -104,7 +104,7 @@ Ich habe von dem Lappland-Urlaub vor 2 Jahren eine GoPro Hero 4. Das ist eher da
 
 Ich habe Halterungen für die GoPro am Helm oben, Helm links, Spiegel links, Spiegel rechts, und am Stürzbügel. Problem ist dass man bei Bedienung mit Handschuhen kein Gefühl hat ob man den Knopf getroffen hat. Die GoPro zeigt zwar per LED und Piepen was sie tut. Das hört man im Helm aber nicht, und im Spiegel sieht man die LED auch nicht, da müsste man 1 m hinter dem Motorrad sitzen. Gleiches auch für Sturzbügel: man sieht nicht hin, und während der Fahrt die Camera zu aktivieren ist umständlich.
 
-Hier ist definitiv Verbesserungspotential. Es gibt anscheinend eine [Fernbedienung](https://shop.gopro.com/EMEA/accessories-2/smart-remote/ARMTE-002.html), die muss ich mir anschauen.
+Hier ist definitiv Verbesserungspotential. Es gibt anscheinend eine [Fernbedienung](https://gopro.com/en/us/shop/accessories/smart-remote/ARMTE-002.html), die muss ich mir anschauen.
 
 Am Ende habe ich die GoPro meistens am Spiegel montiert, per [RAM Mount](http://www.rammount.com/) Halterung, dort kommt man während der Fshrt gut hin. Das RAM System funktioniert gut, ist sehr stabil. Je nach Befestigung kann das Video auch verwackelt werden, das muss man ausprobieren.
 

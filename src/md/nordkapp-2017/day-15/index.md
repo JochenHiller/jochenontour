@@ -72,7 +72,7 @@ Kurz vor dem Ziel (5 km ausserhalb von Kiel) sehe ich auf meinem Navi den Ort "[
 
 <rehype-image src="IMG_3671.JPG"><center></center></rehype-image>
 
-Dann bin ich endlich am frühen Abend bei Marco und seiner Familie eingetroffen. Marco und ich waren vor einigen Jahren Kollegen, und ein paar Jahre gemeinsam beim Klettern unterwegs, im Rhein-Main Gebiet und in Italien, Arco. Unser beider letztes Campingerlebnis war zusammen mit einem weiteren Freund in Arco auf einem typischen [Kletter-Campingplatz](http://www.camping.it/en/trentino/arco/): vom Zelt aus Sicht auf die grossen Wände des Sarcha Tals. Marco ist inzwischen vom Klettern und Hochtouren auf Triathlon umgestiegen, und hat schon mehrere IronMan erfolgreich bestanden. Ich würde mal sagen: "[Er ist fit wie ein Turnschuh](https://de.wiktionary.org/wiki/fit_wie_ein_Turnschuh)".
+Dann bin ich endlich am frühen Abend bei Marco und seiner Familie eingetroffen. Marco und ich waren vor einigen Jahren Kollegen, und ein paar Jahre gemeinsam beim Klettern unterwegs, im Rhein-Main Gebiet und in Italien, Arco. Unser beider letztes Campingerlebnis war zusammen mit einem weiteren Freund in Arco auf einem typischen [Kletter-Campingplatz](https://www.camping.it/en/trentinoaltoadige/arco/): vom Zelt aus Sicht auf die grossen Wände des Sarcha Tals. Marco ist inzwischen vom Klettern und Hochtouren auf Triathlon umgestiegen, und hat schon mehrere IronMan erfolgreich bestanden. Ich würde mal sagen: "[Er ist fit wie ein Turnschuh](https://de.wiktionary.org/wiki/fit_wie_ein_Turnschuh)".
 
 Wir haben den Rest des Abends gemütlich miteinander verbracht. Ich durfte wieder in einem richtigen Bett schlafen, und wurde mit Abendessen und Frühstück versorgt. Deswegen musste das Schreiben des Blog auch bis heute warten.
 

@@ -69,7 +69,7 @@ Dann bin ich auf Tipp des Reiseführers in Juhls Silberschmiede. Geführt von ei
 
 ## Sami Land
 
-Ich habe mich im Vorfeld der Tour mehr mit der [Sami Kultur](https://de.wikipedia.org/wiki/Samen_(Volk)) beschäftigt, und hatte gehofft in Karasjok und Kautokeino mehr davon zu sehen als nur den Sami Park. Es scheint aber der Juni eine ungünstige Zeit zu sein. Die Sami teilen das Jahr anhand der Aufgaben mit den Rentieren in [8 Jahreszeiten](http://www.grenselandet.no/de/rentierweideland/acht-jahreszeiten) ein, und Juni ist die Zeit zum Reparieren und Angeln. Hmm.
+Ich habe mich im Vorfeld der Tour mehr mit der [Sami Kultur](https://de.wikipedia.org/wiki/Samen_(Volk)) beschäftigt, und hatte gehofft in Karasjok und Kautokeino mehr davon zu sehen als nur den Sami Park. Es scheint aber der Juni eine ungünstige Zeit zu sein. Die Sami teilen das Jahr anhand der Aufgaben mit den Rentieren in [8 Jahreszeiten](http://www.grenselandet.no/de/renbetesland/atta-arstider) ein, und Juni ist die Zeit zum Reparieren und Angeln. Hmm.
 
 Typische Aktivitäten mit den Rentieren passieren eher im Frühjahr, in denen die Rentiere in andere Weidegebiete getrieben werden, oder im Herbst, in dem sie eingesammelt, getrennt und geschlachtet werden.
 Witzigerweise habe ich vor ein paar Wochen gelesen, dass das Norwegische Fernsehen eine Dokumentation der Verlegung der Rentiere in ihre Sommerweidegebiete gedreht hat. Und zwar als [Slow-TV](https://www.nrk.no/rein/), d.h. man konnte das 8 Tage lang am Stück live verfolgen. Die Videos mit Zusammenfassungen gibt es [hier](https://tv.nrk.no/serie/reinflytting-minutt-for-minutt). Leider ist das alles auf Norwegisch und Samisch, ich verstehe kein Wort, es sind aber schöne Bilder wie die Rentiere zusammengetrieben werden. 

@@ -14,7 +14,7 @@ Keine Rentiere, dafür Kilometer gefressen...
 
 <rehype-image src="Tour-Day-13.png"><center></center></rehype-image>
 
-Um 09:00 gings los von dem wunderschönen [Campingplatz in Sandsjögarden](https://www.sandsjogarden.se/stugas). Den kann ich wirklich empfehlen, alles sehr gut gepflegt, nette Betreiber (Schweizer) und tolle Aussicht. Die beiden habe eine nette [Website](https://www.sandsjogarden.se/), sind öfters in den Medien in Schweden und in der Schweiz.
+Um 09:00 gings los von dem wunderschönen [Campingplatz in Sandsjögarden](https://www.sandsjogarden.com/camping?lang=en). Den kann ich wirklich empfehlen, alles sehr gut gepflegt, nette Betreiber (Schweizer) und tolle Aussicht. Die [beiden](https://www.sandsjogarden.com/das-team?lang=en) habe eine nette [Website](https://www.sandsjogarden.com/?lang=en), sind öfters in den Medien in Schweden und in der Schweiz.
 
 Ich habe  bei der Rückgabe des Schüssels doch noch die Hundezwinger gesehen, wo das Schweizer Paar ihre eigenen Hunde hält. Es sind 6 [Grönlandhunde](https://de.wikipedia.org/wiki/Gr%C3%B6nlandhund), 14 [Alaskan Malamuts](https://de.wikipedia.org/wiki/Alaskan_Malamute). Beide Rassen habe viel buschigeres Fell als die Alaskian Huskies, und sich eher stämmig, mehr auf Kraft als auf Geschwindigkeit ausgelegt.
 

@@ -71,7 +71,7 @@ Ich bin weiterhin von dieser Kultur fasziniert, wobei nur noch wenige das Privil
 
 ## Schneeschuhwandern über Tromsø
 
-Ich hatte schon morgens geplant anschliessend eine Schneeschuhtour zu machen, und mir Schneeschuhe und Stöcke [ausgeliehen](http://www.tromsooutdoor.no/snowshoeing-on-your-own.392149.en.html). Der Bus hat mich auf dem Rückweg an der [Eiskathedrale](https://www.ishavskatedralen.no/en/the-arctic-cathedral/) von Tromsø aussteigen lassen. Von dort bin ich zum "Cable Car", der Talstation der Seilbahn gelaufen. Von dort gehen mehrere Wanderwege den Berg auf den [Fjellheisen](https://fjellheisen.no/en) hoch, Tromsø's schönster Ausblick.
+Ich hatte schon morgens geplant anschliessend eine Schneeschuhtour zu machen, und mir Schneeschuhe und Stöcke [ausgeliehen](https://www.tromsooutdoor.no/rental-category/snowshoeing). Der Bus hat mich auf dem Rückweg an der [Eiskathedrale](https://www.ishavskatedralen.no/en/the-arctic-cathedral/) von Tromsø aussteigen lassen. Von dort bin ich zum "Cable Car", der Talstation der Seilbahn gelaufen. Von dort gehen mehrere Wanderwege den Berg auf den [Fjellheisen](https://fjellheisen.no/en) hoch, Tromsø's schönster Ausblick.
 
 <photo-composition>
 <rehype-image src="IMG_0581.JPG"><center>Eiskathedrale</center></rehype-image>
