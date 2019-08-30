@@ -51,6 +51,13 @@ module.exports = {
             },
           },
           {
+            resolve: "gatsby-remark-external-links",
+            options: {
+              target: "_blank",
+              rel: "noopener noreferrer"
+            },
+          },
+          {
             resolve: "gatsby-remark-embed-video",
             options: {
               width: 600,
@@ -142,6 +149,7 @@ module.exports = {
         ],
       },
     },
+    `gatsby-plugin-catch-links`,
     `gatsby-plugin-offline`,
   ],
 }

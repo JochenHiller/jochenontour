@@ -2,9 +2,6 @@
 
 ## Under development
 
-* Use link checker to check for invalid links (run via script of test case)
-* Open external links in its own window/tab
-* Check internal links, use special directive for (summary articles)
 * Check all videos, archive videos in Google Drive
 * Extend location for lat/lon/country AND place/description
 * Migrate old places to blog
@@ -38,7 +35,10 @@
 
 ## Done
 
-* ~~Migrated main content from Oold blog~~
+* ~~Use catch plugin to optimize local links to not load them again~~
+* ~~Open external links in its own window/tab~~
+* ~~Added link checker script to check for dead links~~
+* ~~Migrated main content from old blog~~
 * ~~First version of Mongolia blog (DE/EN)~~
 * ~~Fixed blog name to use from config.js~~
 * ~~Added Typography page for testing~~
