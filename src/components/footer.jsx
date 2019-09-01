@@ -16,10 +16,9 @@ const Footer = () => (
     <Box
       alignSelf="center"
       width="xxlarge"
-      margin={{ horizontal: `medium`, vertical: `small` }}
-      gap="medium"
+      margin={{ horizontal: `medium`, vertical: `xxsmall` }}
     >
-      <Box direction="row" gap="xsmall">
+      <Box direction="row" gap="xxsmall">
         <Anchor
           rel="noopener noreferrer"
           target="_blank"
@@ -62,14 +61,18 @@ const Footer = () => (
           icon={<Rss color="accent-3" />}
           href="/rss.xml"
         />
+      </Box>
+      <Box direction="row" gap="small">
         <Anchor
           rel="noopener noreferrer"
+          target="_blank"
           color="accent-3"
           label="Impressum"
           href="/impressum"
         />
         <Anchor
           rel="noopener noreferrer"
+          target="_blank"
           color="accent-3"
           label="Lizenzen"
           href="/licenses"

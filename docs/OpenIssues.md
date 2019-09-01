@@ -2,7 +2,6 @@
 
 ## Under development
 
-* Check all videos, archive videos in Google Drive
 * Extend location for lat/lon/country AND place/description
 * Migrate old places to blog
 * Add summary article for Nordkapp
@@ -32,9 +31,11 @@
 * Automatic testing of all links in website, UI tests with different browsers
 * Rework impressum, "Datenschutzerklaerung"
 * Make "date" a timestamp to order within same day (e.g. 2017-05-31)
+* Include videos as alternative from Google Drive
 
 ## Done
 
+* ~~Make video responsive using gatsby-remark-responsive-iframe plugin~~
 * ~~Use catch plugin to optimize local links to not load them again~~
 * ~~Open external links in its own window/tab~~
 * ~~Added link checker script to check for dead links~~

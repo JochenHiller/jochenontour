@@ -109,12 +109,12 @@ Ich werde hier über die weiteren Vorbereitungen bloggen: wen es interessiert: *
 
 * Kinga Tanajewska: On Her Bike
   * Blog: http://onherbike.com/
-  * YouTube Channel: https://www.youtube.com/channel/UCwn9AheYpfc4F62EZKsOEhw
+  * Ihr [YouTube Channel](https://www.youtube.com/channel/UCwn9AheYpfc4F62EZKsOEhw)
   * Kinga ist seit Ende 2017 auf Weltreise, sie hat die Seidenstraße von Ost nach West durchquert
   * Sehenswerte Videos, Respekt wie sie das macht
 
 * Uwe Steinbrecher: Planlos Ostwärts
-  * YouTube Channel: https://www.youtube.com/channel/UCuUF5VCQRYe2z2k_f7tcXCw
+  * Sein [YouTube Channel](https://www.youtube.com/channel/UCuUF5VCQRYe2z2k_f7tcXCw)
   * ähnlicher Weg mit dem Motorrad in die Mongolei (2014)
   * Ein interessanter Reisebericht, vor allem Tadschikistan/Kirgistan/Mongolei
   * alle 13 Videos anzuschauen dauert sicher 5-7 Stunden, lohnt sich aber
