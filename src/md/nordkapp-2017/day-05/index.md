@@ -6,6 +6,17 @@ tags: ["Motorrad", "Nordkap"]
 cover: "./cover.png"
 type: "article"
 featured: false
+country: "Norwegen"
+km: 450
+duration: 1
+place: {
+  url: "https://maps.google.com/maps?q=Storsand+G%C3%A5rd+Camping,+Storsandveien+1,+7563+Malvik,+Norway@63.4319956,10.70859059999998&z=10",
+  label: "Storsand Gård Camping, Storsandveien 1, 7563 Malvik, Norway"
+}
+itinerary: ["Geiranger Fjord", "Trollstigen", "Andalnes", "Molde", "Atlantic Street", "Trondheim"]
+coordinates: [
+    { coordinates: [10.70859059999998, 63.4319956], country: 'Norwegen' },
+]
 ---
 
 Der Plan für heute war nach Trondheim zu kommen. Ab Trondheim geht die E6 dann direkt bis zum Nordkap hoch, das sind noch schlappe 1.700 km !
@@ -18,7 +29,13 @@ Der Plan für heute war nach Trondheim zu kommen. Ab Trondheim geht die E6 dann 
 
 Beim Aufwachen in der Früh (das feuchte Zelt war gar nicht so schlimm wie befürchtet, alles war nur etwas klamm) habe ich es schon gehört: es regnet schon wieder. Ich konnte mich wieder an die Zeiten beim Zelten erinnern und das typische Geräusch der Regentropfen...
 
-<rehype-image src="VID_20170604_074250.jpg"><center></center></rehype-image>
+<center>
+
+`youtube: https://youtu.be/sDpr0b2sjEc`
+</center>
+
+##### Regen im Zelt
+
 
 Nach warmer Dusche (der Campingplatz ist cool: beheizte Duschräume !) habe ich dann logistisch wieder alles im Zelt zusammengepackt, umgezogen, um dann direkt in den Regenklamotten das Gepäck zu verstauen. Das Zelt war natürlich wieder patschnass, ich habe es deswegen gleich aussen befestigt, war grad egal. Und los in voller Montur um 09:00 (es wird jeden Morgen später, hmm).
 

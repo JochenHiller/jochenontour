@@ -6,12 +6,13 @@ tags: ["Hundeschlitten", "Norwegen",]
 cover: "./cover.jpg"
 type: "article"
 featured: false
-country: "Schweden"
+country: "Norwegen"
 km: 0
 duration: 1
 itinerary: ["Icehotel", "Kiruna", "Tromsø"]
 coordinates: [
-    { coordinates: [18.9509118, 69.6467577], country: 'Norwegen' },
+    { coordinates: [20.5936212, 67.851129], country: "Schweden" }, 
+    { coordinates: [18.9509118, 69.6467577], country: "Norwegen" },
 ]
 ---
 

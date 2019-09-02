@@ -6,6 +6,17 @@ tags: ["Motorrad", "Nordkap"]
 cover: "./cover.png"
 type: "article"
 featured: false
+country: "Schweden"
+km: 600
+duration: 1
+place: {
+  url: "https://maps.google.com/maps?q=Sj%C3%B6torpets+Camping,,+Strandv%C3%A4gen+4,+285+31+Markaryd,+Sweden@56.464488,13.602297399999998&z=10",
+  label: "Sjötorpets Camping,, Strandvägen 4, 285 31 Markaryd, Sweden"
+}
+itinerary: ["Mora", "Jönköping", "Helsingborg"]
+coordinates: [
+    { coordinates: [13.602297399999998, 56.464488], country: 'Schweden' },
+]
 ---
 
 Das war der langweiligste Tag in Schweden

@@ -6,6 +6,17 @@ tags: ["Motorrad", "Nordkap"]
 cover: "./cover.png"
 type: "article"
 featured: false
+country: "Norwegen"
+km: 410
+duration: 1
+place: {
+  url: "https://maps.google.com/maps?q=Olderdalen,+Wild-Camping,+Norway@69.60406499999999,20.532720700000027&z=10",
+  label: "Olderdalen, Wild-Camping, Norway"
+}
+itinerary: ["Narvik", "Bardufoss", "Tromsø", "Kvaløya", "Tromsø", "Lyngenfjord", "Olderdalen"]
+coordinates: [
+    { coordinates: [20.532720700000027, 69.60406499999999], country: 'Norwegen' },
+]
 ---
 
 Ich habe Freunde gefunden in Tromsø, deren Lebensweise und Zufriedenheit mich beeindruckt hat.

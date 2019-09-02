@@ -6,6 +6,17 @@ tags: ["Motorrad", "Nordkap"]
 cover: "./cover.png"
 type: "article"
 featured: false
+country: "Schweden"
+km: 615
+duration: 1
+place: {
+  url: "https://maps.google.com/maps?q=Sandsj%C3%B6g%C3%A5rden+-+Holiday+Resort+i+Sandsj%C3%B6+AB,+SANDSJ%C3%96+122,+920+72+Blattnicksele,+Sweden@65.243376,17.674433000000022&z=10",
+  label: "Sandsjögården - Holiday Resort i Sandsjö AB, SANDSJÖ 122, 920 72 Blattnicksele, Sweden"
+}
+itinerary: ["Karesuando", "Galliväre", "Jokkmokk", "Arvidsjaur", "Sandsjö"]
+coordinates: [
+    { coordinates: [17.674433000000022, 65.243376], country: 'Schweden' },
+]
 ---
 
 Mit Rentieren musste man heute immer rechnen...

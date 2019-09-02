@@ -6,6 +6,17 @@ tags: ["Motorrad", "Nordkap"]
 cover: "./cover.png"
 type: "article"
 featured: false
+country: "Deutschland"
+km: 470
+duration: 1
+place: {
+  url: "https://maps.google.com/maps?q=Heikendorf,+Germany@54.3793772,10.21125410000002&z=10",
+  label: "Heikendorf, Germany"
+}
+itinerary: ["Helsingborg", "Malmö", "Kopenhagen", "Fehmarn", "Kalifornien", "Kiel"]
+coordinates: [
+    { coordinates: [10.21125410000002, 54.3793772], country: 'Deutschland' },
+]
 ---
 
 Der Weg über Malmö, Kopenhagen, Fehmarn nach Kiel war super entspannt

@@ -6,6 +6,17 @@ tags: ["Motorrad", "Nordkap"]
 cover: "./cover.png"
 type: "article"
 featured: false
+country: "Norwegen"
+km: 440
+duration: 1
+place: {
+  url: "https://maps.google.com/maps?q=Birkelund+camping,+Hovsvegen+50,+3577+Hovet,+Norway@60.61828199999999,8.219685000000027&z=10",
+  label: "Birkelund camping, Hovsvegen 50, 3577 Hovet, Norway"
+}
+itinerary: ["Lysefjord", "Odda", "Hardangervidda", "Geilo"]
+coordinates: [
+    { coordinates: [8.219685000000027, 60.61828199999999], country: 'Norwegen' },
+]
 ---
 
 Dieser Tag läuft vermutlich als Einstimmung zum Nordkap: so (oder noch extremer ?) wird es dort werden.

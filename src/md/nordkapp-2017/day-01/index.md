@@ -6,6 +6,17 @@ tags: ["Motorrad", "Nordkap"]
 cover: "./cover.jpg"
 type: "article"
 featured: false
+country: "Deutschland"
+km: 840
+duration: 1
+place: {
+  url: "https://www.google.com/maps/place/Hotel+ibis+budget+Flensburg+Handewitt/@54.7774785,9.3330375,17z/data=!4m18!1m9!3m8!1s0x47b3677e2dce54d5:0x7f48a0e832b1059e!2sHotel+ibis+budget+Flensburg+Handewitt!5m2!4m1!1i2!8m2!3d54.7774785!4d9.3352315!3m7!1s0x47b3677e2dce54d5:0x7f48a0e832b1059e!5m2!4m1!1i2!8m2!3d54.7774785!4d9.3352315",
+  label: "Flensburg Handewitt, Germany"
+}
+itinerary: ["Ulm", "Kassel", "Hamburg", "Flensburg"]
+coordinates: [
+    { coordinates: [9.3330375, 54.7774785], country: 'Deutschland' },
+]
 ---
 
 Ich habe beim Schreiben überlegt, ob ich den Tag heute als Tag 01 der Tour sehe, da es eigentlich erst ab morgen nach Norwegen geht. Nachdem ich aber jetzt 840 km in 9 h Fahrt hinter mir habe ist das glaube ich schon gerechtfertigt. Damit habe ich sogar 16 Tage um am 15.06. wieder pünktlich zu Hause zu sein ;-)

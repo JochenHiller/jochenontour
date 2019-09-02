@@ -17,6 +17,7 @@ All changes marked with `{/* FIXED ... */}`
 * pages/*.jsx: changed from `GatsbyImageSharpFluid` to `GatsbyImageSharpFluid_withWebp`. Do NOT enforce WEBP format in gatsby-config.js as it does **not** work on macOS/Safari, iOS/Chrome, iOS/Safari
 * changed all occurences of "OAsome Blog" with config.title (incl. "gatsby-config.js")
 * changed all occurences of "OAsome" with config.titleShort
+* photoComposition.jsx: Fixed missing unique key in image children
 
 ## Changed content
 

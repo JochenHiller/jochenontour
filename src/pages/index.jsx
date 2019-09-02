@@ -203,6 +203,10 @@ export const pageQuery = graphql`
             featured
             itinerary
             duration
+            place {
+              url
+              label
+            }
             coordinates {
               country
               coordinates

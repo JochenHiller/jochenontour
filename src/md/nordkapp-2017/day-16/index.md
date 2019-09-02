@@ -6,6 +6,17 @@ tags: ["Motorrad", "Nordkap"]
 cover: "./cover.png"
 type: "article"
 featured: false
+country: "Deutschland"
+km: 800
+duration: 1
+place: {
+  url: "https://maps.google.com/maps?q=Neu-Ulm,+Germany@48.3906042,10.006039800000053&z=10",
+  label: "Neu-Ulm, Germany"
+}
+itinerary: ["Kiel", "Hamburg", "Hannover", "Kassel", "Würzburg", "Ulm"]
+coordinates: [
+    { coordinates: [10.006039800000053, 48.3906042], country: 'Deutschland' },
+]
 ---
 
 Jetzt gehts nur noch nach Hause
@@ -83,7 +94,6 @@ Ich werde in den nächsten Tagen noch eine Übersicht und Zusammenfassung schrei
 ## Bilder des Tages
 
 <photo-composition>
-<rehype-image src="IMG_3887.JPG"><center></center></rehype-image>
 <rehype-image src="IMG_3709.JPG"><center></center></rehype-image>
 <rehype-image src="IMG_3719.JPG"><center></center></rehype-image>
 <rehype-image src="IMG_3723.JPG"><center></center></rehype-image>
@@ -91,6 +101,7 @@ Ich werde in den nächsten Tagen noch eine Übersicht und Zusammenfassung schrei
 <rehype-image src="IMG_3744.JPG"><center></center></rehype-image>
 <rehype-image src="IMG_2363.jpg"><center></center></rehype-image>
 <rehype-image src="IMG_2370.jpg"><center></center></rehype-image>
+<rehype-image src="IMG_3887.JPG"><center></center></rehype-image>
 </photo-composition>
 
 

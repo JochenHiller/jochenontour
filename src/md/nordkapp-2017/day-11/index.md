@@ -6,6 +6,17 @@ tags: ["Motorrad", "Nordkap"]
 cover: "./cover.png"
 type: "article"
 featured: false
+country: "Schweden"
+km: 300
+duration: 1
+place: {
+  url: "https://maps.google.com/maps?q=Karesuando+Camping,+Laestadiusv%C3%A4gen+185,+980+16+Karesuando,+Sweden@68.4337637,22.515664799999968&z=10",
+  label: "Karesuando Camping, Laestadiusvägen 185, 980 16 Karesuando, Sweden"
+}
+itinerary: ["Karasjok", "Kautokeino", "Enontekiö", "Karesuvanto", "Karesuando"]
+coordinates: [
+    { coordinates: [22.515664799999968, 68.4337637], country: 'Schweden' },
+]
 ---
 
 Im Juni ist in Sami Lappland aber nicht viel los...

@@ -64,6 +64,7 @@ function BlogPost({ data, pageContext }) {
             content={renderAst(htmlAst)}
             type={frontmatter.type}
             timeToRead={timeToRead}
+            place={frontmatter.place}
             country={frontmatter.country}
           />
           <Box gap="small" width="medium">
@@ -121,6 +122,10 @@ export const pageQuery = graphql`
         km
         itinerary
         duration
+        place {
+          url
+          label
+        }
         cover {
           childImageSharp {
             fluid(maxHeight: 550, maxWidth: 1000, quality: 100) {

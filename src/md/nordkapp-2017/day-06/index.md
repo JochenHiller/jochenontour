@@ -6,6 +6,17 @@ tags: ["Motorrad", "Nordkap"]
 cover: "./cover.png"
 type: "article"
 featured: false
+country: "Norwegen"
+km: 450
+duration: 1
+place: {
+  url: "https://maps.google.com/maps?q=Mosjoen+camping+AS,+Campingvegen+1,+8657+Mosj%C3%B8en,+Norway@65.8340381,13.219929900000011&z=10",
+  label: "Mosjoen camping AS, Campingvegen 1, 8657 Mosjøen, Norway"
+}
+itinerary: ["Trondheim", "Formofossen", "Borgefjell", "Mosjoen"]
+coordinates: [
+    { coordinates: [13.219929900000011, 65.8340381], country: 'Norwegen' },
+]
 ---
 
 Das Leben ist manchmal ganz schön verrückt...

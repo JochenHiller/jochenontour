@@ -6,6 +6,17 @@ tags: ["Motorrad", "Nordkap"]
 cover: "./cover.png"
 type: "article"
 featured: false
+country: "Schweden"
+km: 660
+duration: 1
+place: {
+  url: "https://maps.google.com/maps?q=Camping+MoraLife,+%C3%85m%C3%A5s%C3%A4ngsv%C3%A4gen+90,+792+34+Mora,+Sweden@60.9821372,14.564430500000071&z=10",
+  label: "Camping MoraLife, Åmåsängsvägen 90, 792 34 Mora, Sweden"
+}
+itinerary: ["Sandsjö", "Östersund", "Mora"]
+coordinates: [
+    { coordinates: [14.564430500000071, 60.9821372], country: 'Schweden' },
+]
 ---
 
 Keine Rentiere, dafür Kilometer gefressen...

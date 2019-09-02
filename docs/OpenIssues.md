@@ -2,11 +2,14 @@
 
 ## Under development
 
-* Extend location for lat/lon/country AND place/description
-* Migrate old places to blog
+* Fix places for Dog Sledding tour
 * Add summary article for Nordkapp
 * Review mongolia article, check EN translation
-
+* Add Next/Prev links to posts
+* Add gatsby-mdx plugin for React in Markdown
+* Extend archive to limit menu to limited posts
+* Extend archive to show sub menues per year where posts exist
+ 
 ## Future
 
 * add build time to some version information
@@ -35,6 +38,7 @@
 
 ## Done
 
+* ~~Added place with location icon for blogposts to align with old blog~~
 * ~~Make video responsive using gatsby-remark-responsive-iframe plugin~~
 * ~~Use catch plugin to optimize local links to not load them again~~
 * ~~Open external links in its own window/tab~~

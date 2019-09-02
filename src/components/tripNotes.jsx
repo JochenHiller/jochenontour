@@ -20,12 +20,16 @@ function TripNotes({ km, duration, itinerary }) {
         ) : (
           <Note text={``} icon={Car} />
         )}
-        {/* TODO only day when duration == 1 */}
-        {duration != null ? (
+        {/* Show days (>1) or day (==1) or no text (==null) */}
+        {duration != null && duration > 1 &&
           <Note text={`${duration} days`} icon={Schedule} />
-        ) : (
+        }
+        {duration != null && duration == 1 &&
+          <Note text={`${duration} day`} icon={Schedule} />
+        }
+        {duration == null &&
           <Note text={``} icon={Schedule} />
-        )}
+        }
         {itinerary != null ? (
           <Note text={`${itinerary.join(` -> `)}`} icon={Map} />
         ) : (

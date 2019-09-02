@@ -6,6 +6,17 @@ tags: ["Motorrad", "Nordkap"]
 cover: "./cover.png"
 type: "article"
 featured: false
+country: "Norwegen"
+km: 570
+duration: 1
+place: {
+  url: "https://maps.google.com/maps?q=Haersletta+Camping,+Tr%C3%A6ldal,+Norway@68.47309400000002,17.654435000000035&z=10",
+  label: "Haersletta Camping, Trældal, Norway"
+}
+itinerary: ["Mosjoen", "Moi i Rana", "Svartisen", "Polar Circle", "Narvik"]
+coordinates: [
+    { coordinates: [17.654435000000035, 68.47309400000002], country: 'Norwegen' },
+]
 ---
 
 Traumtag auf der E6: der Tag war wieder ein Highlight, bei allerbestem Wetter zum Polarkreis (endlich) und dann bei traumhaften Landschaften bis nach Narvik

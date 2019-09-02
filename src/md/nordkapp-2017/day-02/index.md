@@ -6,6 +6,17 @@ tags: ["Motorrad", "Nordkap"]
 cover: "./cover.jpg"
 type: "article"
 featured: false
+country: "Norwegen"
+km: 600
+duration: 1
+place: {
+  url: "https://maps.google.com/maps?q=Kjerag+Lysebotn+Camping+Resort,+Fv500+160,+4127+Lysebotn,+Norway@59.0541038,6.649265600000035&z=10",
+  label: "Kjerag Lysebotn Camping Resort, Fv500 160, 4127 Lysebotn, Norway"
+}
+itinerary: ["Flensburg", "Hirtshals", "Kristiansand", "Lysefjord"]
+coordinates: [
+    { coordinates: [6.649265600000035, 59.0541038], country: 'Norwegen' },
+]
 ---
 
 Und Norwegen ist echt der Hammer !!!
@@ -81,7 +92,7 @@ BTW: Die Kneipe ist super für das Bloggen: hat Strom, super WiFi, Essen, Bier. 
 
 Es ist übrigens gerade ca. 23:00 und es ist draussen immer noch nicht wirklich dunkel. Wird ab Polarkreis dann ganz vorbei sein.
 
-Der Plan für morgen: von Lysebotn zurück auf die R9, Richtung Odda, Eidfjord, Hardwangerfjord, grob Richtung Geilo. Allerdings hat der Campingplatzbetreiber für morgen Regen angesagt und zwar "not rainy, real rain". Wir werden sehen
+Der Plan für morgen: von Lysebotn zurück auf die R9, Richtung Odda, Eidfjord, Hardangerfjord, grob Richtung Geilo. Allerdings hat der Campingplatzbetreiber für morgen Regen angesagt und zwar "not rainy, real rain". Wir werden sehen
 
 ## Zusammenfassung des Tages
 

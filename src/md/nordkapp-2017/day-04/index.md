@@ -6,6 +6,17 @@ tags: ["Motorrad", "Nordkap"]
 cover: "./cover.png"
 type: "article"
 featured: false
+country: "Norwegen"
+km: 420
+duration: 1
+place: {
+  url: "https://maps.google.com/maps?q=Solvang+Camping,+Rv63,+6215+Eidsdal,+Norway@62.19574669999999,7.140560800000003&z=10",
+  label: "Solvang Camping, Rv63, 6215 Eidsdal, Norway"
+}
+itinerary: ["Geilo", "Flam", "Auerlandsvegen", "Loerdal", "Jotunheimen", "Dalsnibbe", "Geiranger Fjord"]
+coordinates: [
+    { coordinates: [7.140560800000003, 62.19574669999999], country: 'Norwegen' },
+]
 ---
 
 Ich hatte nicht gedacht, dass es von den bisherigen Erlebnissen noch Steigerungen gibt, aber der Tag heute war noch "geiler".

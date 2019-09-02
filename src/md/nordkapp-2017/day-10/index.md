@@ -6,6 +6,17 @@ tags: ["Motorrad", "Nordkap"]
 cover: "./cover.png"
 type: "article"
 featured: false
+country: "Norwegen"
+km: 280
+duration: 1
+place: {
+  url: "https://maps.google.com/maps?q=Engholm+Husky+-+9730,+Karasjok,+Norway@69.448456,25.359019999999987&z=10",
+  label: "Engholm Husky - 9730, Karasjok, Norway"
+}
+itinerary: ["Nordkapp", "Olderfjord", "Laekselv", "Karasjok"]
+coordinates: [
+    { coordinates: [25.359019999999987, 69.448456], country: 'Norwegen' },
+]
 ---
 
 Heute war entspannen angesagt

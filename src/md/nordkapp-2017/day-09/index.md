@@ -6,6 +6,17 @@ tags: ["Motorrad", "Nordkap"]
 cover: "./cover.jpg"
 type: "article"
 featured: true
+country: "Norwegen"
+km: 450
+duration: 1
+place: {
+  url: "https://maps.google.com/maps?q=Nordkapp,+Norway@71.169493,25.783163999999942&z=10",
+  label: "Nordkapp, Norway"
+}
+itinerary: ["Olderdalen", "Alta", "Olderfjord", "Knivskjellodden", "Nordkapp"]
+coordinates: [
+    { coordinates: [25.783163999999942, 71.169493], country: 'Norwegen' },
+]
 ---
 
 ## Am Ziel Nordkap angekommen!

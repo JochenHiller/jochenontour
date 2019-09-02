@@ -81,6 +81,10 @@ exports.createPages = ({ actions, graphql }) => {
               itinerary
               km
               duration
+              place {
+                url
+                label
+              }
               coordinates {
                 coordinates
                 country

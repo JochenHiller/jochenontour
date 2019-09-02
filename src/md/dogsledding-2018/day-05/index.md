@@ -6,7 +6,7 @@ tags: ["Hundeschlitten", "Norwegen",]
 cover: "./cover.jpg"
 type: "article"
 featured: false
-country: "Norwegen"
+country: "Schweden"
 km: 41
 duration: 1
 itinerary: []
