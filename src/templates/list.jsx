@@ -15,9 +15,9 @@ function List({ pageContext }) {
   const { posts, title, type } = pageContext
   const coords = coordinates(posts)
   return (
-    <App title={`${config.title} - ${capitalize(title)}`}>
+    <App title={`${config.titleShort} - ${capitalize(title)}`}>
       {type !== `tag` && (
-        <Box width="xxlarge" alignSelf="center" margin={{ vertical: `small` }}>
+        <Box alignSelf="center" margin={{ vertical: `small` }}>
         {/* FIXED: only show map when at least one coordinate is set */}
         {_.sample(coords) != undefined && (
           <Map cities={coords} zoom={3} center={_.sample(coords).coordinates} />

@@ -32,7 +32,6 @@ class ZoomPan extends Component {
 
     return (
       <Box>
-          {/* FIXED style.overflow from visible to hidden, otherwise will overflow header */}
           <ComposableMap
           projectionConfig={{
             scale: 320,
@@ -42,7 +41,6 @@ class ZoomPan extends Component {
             style={{
             width: `100%`,
             height: `auto`,
-            overflow: `hidden`, 
           }}
         >
           <ZoomableGroup center={center} zoom={zoom} disablePanning>

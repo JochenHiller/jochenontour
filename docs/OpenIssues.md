@@ -2,6 +2,7 @@
 
 ## Under development
 
+* Add disqus to pages
 * Fix places for Dog Sledding tour
 * Add summary article for Nordkapp
 * Review mongolia article, check EN translation
@@ -38,6 +39,7 @@
 
 ## Done
 
+* ~~Merged with changes from oasome.blog commit [b31cf55](https://github.com/oorestisime/oasome/commit/b31cf551fc72351d579f3123bfade1ac2728507a) ~~
 * ~~Added place with location icon for blogposts to align with old blog~~
 * ~~Make video responsive using gatsby-remark-responsive-iframe plugin~~
 * ~~Use catch plugin to optimize local links to not load them again~~
