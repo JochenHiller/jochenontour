@@ -30,5 +30,5 @@ diff tmp/files_images.txt tmp/files_referred_filtered.txt
 ) | tee tmp/files_not_used.txt
 
 # cleanup
-# rm -f tmp/files_images.txt tmp/files_referred*.txt tmp/files_not_used.txt
-# rmdir tmp
+rm -f tmp/files_images.txt tmp/files_referred*.txt tmp/files_not_used.txt
+rmdir tmp

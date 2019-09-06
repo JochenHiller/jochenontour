@@ -10,7 +10,6 @@ module.exports = {
   plugins: [
     `gatsby-plugin-styled-components`,
     `gatsby-plugin-react-helmet`,
-    `gatsby-plugin-favicon`,
     `gatsby-plugin-sitemap`,
     `gatsby-plugin-sharp`,
     `gatsby-transformer-sharp`,
@@ -93,6 +92,7 @@ module.exports = {
       options: {
         name: config.title,
         short_name: config.titleShort,
+        icon: `src/favicon.png`,
         start_url: `/`,
         background_color: `#fafafa`,
         theme_color: `#EEEEEE`,

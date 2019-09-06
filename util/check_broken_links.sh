@@ -1,7 +1,7 @@
 #!/bin/bash
 
 usage() {
-  echo "check_links.sh [--local]"
+  echo "check_broken_links.sh [--local]"
   echo "  --local      Use local Gatsby build and serve)"
 }
 
