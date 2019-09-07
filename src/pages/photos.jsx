@@ -26,7 +26,7 @@ function PhotosArchive({ data }) {
       />
       <App title="Photography articles">
         <Section justifyInner="start">
-          <Posts posts={flatten(posts)} />
+          <Posts posts={flatten(posts)} limit={false} />
         </Section>
       </App>
     </Fragment>

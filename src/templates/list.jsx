@@ -10,7 +10,7 @@ import Section from "../components/section"
 import Posts from "../components/posts"
 import { coordinates, capitalize } from "../tools"
 
-{/* FIXED: take app title from config.js */}
+{/* FIXED: take app title short from config.js */}
 function List({ pageContext }) {
   const { posts, title, type } = pageContext
   const coords = coordinates(posts)
@@ -27,7 +27,7 @@ function List({ pageContext }) {
       <ResponsiveContext.Consumer>
         {size => (
           <Section columns={size || `medium`}>
-            <Posts posts={posts} />
+            <Posts posts={posts} limit={false} />
           </Section>
         )}
       </ResponsiveContext.Consumer>

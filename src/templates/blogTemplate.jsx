@@ -40,6 +40,7 @@ function BlogPost({ data, pageContext }) {
   const { markdownRemark } = data // data.markdownRemark holds our post data
   const { similar } = pageContext
   const { frontmatter, htmlAst, timeToRead, tableOfContents } = markdownRemark
+
   return (
     <Fragment>
       <Seo
