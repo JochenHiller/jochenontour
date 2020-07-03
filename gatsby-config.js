@@ -19,7 +19,6 @@ module.exports = {
         color: `#00739D`,
       },
     },
-
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -73,9 +72,9 @@ module.exports = {
     {
       resolve: `gatsby-source-instagram`,
       options: {
-        username: config.instagram,
-        access_token: process.env.IG_ACCESS_TOKEN,
-        instagram_id: config.instagram_id,
+        username: config.instagram_id,
+        // TODO change to Instagram API when #24 is fixed
+        // https://github.com/oorestisime/gatsby-source-instagram/issues/24
       },
     },
     {

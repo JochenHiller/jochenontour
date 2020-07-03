@@ -26,7 +26,7 @@
     "gatsby-remark-rehype-images": "^0.1.2",
     "gatsby-remark-responsive-iframe": "^2.2.10",
     "gatsby-source-filesystem": "^2.0.20",
-    "gatsby-source-instagram": "^0.2.5",
+    "gatsby-source-instagram": "^0.8.0-beta.0",
     "gatsby-transformer-remark": "^2.2.4",
     "gatsby-transformer-sharp": "^2.3.14",
     "grommet": "^2.4.0",
