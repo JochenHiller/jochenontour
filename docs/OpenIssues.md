@@ -2,6 +2,7 @@
 
 ## Under development
 
+* check if HEIC images can be processed by Gatsby
 * Add disqus to pages
 * Fix places for Dog Sledding tour
 * Add summary article for Nordkapp
