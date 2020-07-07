@@ -1,9 +1,12 @@
 import React from "react"
 import PropTypes from "prop-types"
 import Img from "gatsby-image"
-import { Box, Text, Heading, Anchor } from "grommet"
-import { Clock, Map, Schedule, Location } from "grommet-icons"
+import { useLocation } from '@reach/router'
+import { Disqus, CommentCount } from 'gatsby-plugin-disqus'
+import { Box, Text, Heading, Anchor, Button, Collapsible } from "grommet"
+import { Clock, Map, Schedule, Location, Edit } from "grommet-icons"
 
+import config from "../config"
 import Tags from "./tags"
 
 const Post = ({
@@ -17,6 +20,8 @@ const Post = ({
   place,
   country,
 }) => {
+
+  const [open, setOpen] = React.useState(false);
 
   const header = (
     <Box fill="horizontal" elevation="xsmall">
@@ -89,8 +94,31 @@ const Post = ({
           align="center"
         >
           <Tags size="medium" tags={tags} />
+          <Box
+            margin={{ top: `small`, horizontal: `small` }}
+            gap="xsmall"
+            direction="row-responsive"
+            align="center"
+          >
+            <Button
+              icon={<Edit />}
+              label="Kommentare"
+              onClick={() => setOpen(!open)}
+            />
+          </Box>
         </Box>
       )}
+        <Collapsible open={open}>
+          <Box>
+            <Disqus config={
+                {
+                  url: `${`${config.url}${useLocation().pathname}`}`,
+                  identifier: `${`${config.url}${useLocation().pathname}`}`,
+                  title: title,
+                }
+            } />
+          </Box>
+        </Collapsible>
     </Box>
   )
 }

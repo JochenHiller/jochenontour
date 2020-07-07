@@ -149,6 +149,12 @@ module.exports = {
         ],
       },
     },
+    {
+      resolve: `gatsby-plugin-disqus`,
+      options: {
+        shortname: config.disqus
+      }
+    },
     `gatsby-plugin-catch-links`,
     `gatsby-plugin-offline`,
   ],

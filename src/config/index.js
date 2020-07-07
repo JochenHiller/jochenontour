@@ -10,4 +10,5 @@ module.exports = {
   github: `JochenHiller/jochenontour`,
   facebook: `jo.hiller`,
   instagram_id: `7484852520`,
+  disqus: `jochenontour`,
 }
