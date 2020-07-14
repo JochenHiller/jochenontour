@@ -145,6 +145,7 @@ module.exports = {
               }
             `,
             output: `/rss.xml`,
+            title: `${config.title} Feed`,
           },
         ],
       },
