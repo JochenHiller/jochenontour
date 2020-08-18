@@ -6,7 +6,7 @@ tags: ["Motorrad", "Mongolei",]
 cover: "./cover.jpg"
 country: "Mongolei"
 type: "article"
-featured: true
+featured: false
 ---
 
 # Motivation

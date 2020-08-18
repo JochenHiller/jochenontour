@@ -6,7 +6,7 @@ This is the repository where the code, articles and photos of [https://jochenont
 
 ## Test it out locally
 
-You should be able to run this locally with `yarn install` and `gatsby develop`.
+You should be able to run this locally with `npm install` and `gatsby develop`.
 Due to an increasing number of photos it will probably take some minutes to build.
 
 ## License
